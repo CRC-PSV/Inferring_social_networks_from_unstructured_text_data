@@ -1,1 +1,9 @@
-
+bs4==4.7.1
+lda==1.1.0
+nltk==3.4.1
+numpy==1.19.5
+pandas==1.3.4
+spacy==2.3.7
+sklearn==0.21.2
+tmtoolkit==0.10.0
+treetaggerwrapper==2.3
