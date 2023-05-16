@@ -4,7 +4,7 @@ Spyder Editor
 Created on Tue Mar 23 19:14:07 2021
 @author: Francis Lareau
 This is Projectjstor.
-Corpus assembly and preprocessing
+Corpus assembly and preprocessing.
 """
 
 #==============================================================================
