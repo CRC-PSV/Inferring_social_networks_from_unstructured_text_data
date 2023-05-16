@@ -7,3 +7,4 @@ spacy==2.3.7
 sklearn==0.21.2
 tmtoolkit==0.10.0
 treetaggerwrapper==2.3
+gensim==4.3.0
