@@ -238,26 +238,11 @@ for period_name in set(DF_statistique_generale.Period):
         
 # Save lda results to excel
 writer = pd.ExcelWriter(os.path.join(main_path,
-                                     "Diachronic and author analysis",
-                                     "Results_from_diachronic_and_author_analyses_v9.xlsx"))
-df_param.T.to_excel(writer,'Para Score',encoding='utf8')    
-#pd.DataFrame([Vocab,[x[0] for x in DTM.T.sum(axis=1).tolist()]]).T.to_excel(writer,'Vocab',encoding='utf8')    
-#DF_topic.to_excel(writer,'Doc vs Topic',encoding='utf8')
-#DF_Topic_TKW.to_excel(writer,'Top 50 Topics Words',encoding='utf8')
-#DF_TKW_cor.to_excel(writer,'Top 10 Correlates',encoding='utf8')
-#df_keywords_topic.to_excel(writer,'Words vs Topics',encoding='utf8',
-#                           header=topicnames,
-#                           index=sorted([i for i in Vocab.keys()]))
- DF_AT.to_excel(writer,'Authors vs Topics',encoding='utf8')
-#DF_CT.to_excel(writer,'Cluster mean vs Topics',encoding='utf8')
-#DF_CT_center.to_excel(writer,'Cluster center vs Topics',encoding='utf8')
- DF_PAT.to_excel(writer,'Authors+P vs Topics',encoding='utf8')
-#DF_TP.to_excel(writer,'Topics vs Periods',encoding='utf8')
-#DF_TP_Overall.to_excel(writer,'Overall Topics vs Periods',encoding='utf8')
-#DF_PT_T10A.to_excel(writer,'Top 10 articles',encoding='utf8')
-#DF_PT_T20A.to_excel(writer,'Top 20 articles',encoding='utf8')
-#DF_TfromD.to_excel(writer,'Topic Cor. from Doc',encoding='utf8')
-#DF_TfromW.to_excel(writer,'Topic Cor. from Word',encoding='utf8')
-#DF_AfromT.to_excel(writer,'Author Cor.',encoding='utf8')
+                                     "2.2 Author topic profiles",
+                                     "Results_from_diachronic_and_author_analyses.xlsx"))
+df_param.T.to_excel(writer,'Para Score',encoding='utf8')      
+DF_topic.to_excel(writer,'Doc vs Topic',encoding='utf8')
+DF_AT.to_excel(writer,'Authors vs Topics',encoding='utf8')
+DF_PAT.to_excel(writer,'Authors+P vs Topics',encoding='utf8')
 writer.save()
 writer.close()
