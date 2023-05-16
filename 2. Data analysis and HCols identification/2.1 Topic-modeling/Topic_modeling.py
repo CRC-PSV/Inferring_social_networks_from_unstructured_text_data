@@ -4,7 +4,7 @@ Spyder Editor
 Created on Sun Mar 21 14:04:23 2021
 @author: Francis Lareau
 This is Projectjstor.
-Topic model with LDA (Gibbs sampling)
+Topic modeling.
 """
 
 #==============================================================================
