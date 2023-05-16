@@ -49,12 +49,6 @@ DF_statistique_generale = pd.read_pickle(
                      "0. Data",
                      "DF_philosophy_of_science_all_metadata_v2.pkl"))
 
-DF_statistique_generale['Article'] = pd.read_pickle( #this one include articles that we can't publicly share
-        os.path.join(main_path,
-                     "0. Data",
-                     "Private",
-                     "DataFrame_Consolidation_updated_v2_notenglish_General_Stat_from_Tagged_v3.pkl")).Article
-
 #==============================================================================
 # ##################### Data statistic, lda model score and lda hyperparameters
 #==============================================================================
