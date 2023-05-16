@@ -4,7 +4,7 @@ Spyder Editor
 Created on Tue Mar 23 19:14:07 2021
 @author: Francis Lareau
 This is Projectjstor.
-Preprocessing
+Corpus assembly and preprocessing
 """
 
 #==============================================================================
@@ -19,7 +19,7 @@ import datetime
 import re
 import bz2
 from sklearn.feature_extraction.text import CountVectorizer
-import treetaggerwrapper #  TreeTagger must be install and path specified
+import treetaggerwrapper #  TreeTagger must be installed and path specified
 treetagger_path = "C:\TreeTagger"
 
 #==============================================================================
