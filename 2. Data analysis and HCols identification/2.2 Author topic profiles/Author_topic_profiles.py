@@ -120,39 +120,6 @@ for idx,row in DF_Topic_TKW.iterrows():
                 row['Word_8']+'; '+row['Word_9'])
 
 #==============================================================================
-# ############################################################# Topic by period
-#==============================================================================
-
-# Topic - Period Matrix
-DF_PT=pd.DataFrame(lda_output,
-                   columns=topicnames,
-                   index=docnames)
-
-DF_PT['Period']=DF_topic.Period
-DF_PT = DF_PT.groupby(['Period']).sum()
-DF_TP = DF_PT.transpose()
-DF_TP = DF_TP/DF_TP.sum()
-DF_TP_Overall = DF_PT.transpose()
-DF_TP_Overall['Raw'] = DF_PT.sum()
-DF_TP_Overall['Overall'] = DF_PT.sum() / sum(DF_PT.sum())
-
-# Periods - Topics top_10 articles Matrix (sorted by year)
-DF_PT_T10A=pd.DataFrame(data='', index=DF_TP.columns,columns=DF_TP.index)
-for period in DF_TP.columns:
-    for topic in DF_TP.index:
-        for idx in DF_topic[DF_topic.Period==period].nlargest(
-                10,topic).sort_values('Year',ascending=False).index:
-            DF_PT_T10A[topic][period]=DF_PT_T10A[topic][period]+DF_topic.Citation[idx]+'\n'
-            
-# Topics top_20 articles Matrix by Periods - (sorted by weight)
-DF_PT_T20A=pd.DataFrame(data='', index=DF_TP.columns,columns=DF_TP.index)
-for period in DF_TP.columns:
-    for topic in DF_TP.index:
-        for idx in DF_topic.nlargest(20,topic).index:
-            if DF_topic.Period[idx]==period:
-                DF_PT_T20A[topic][period]=DF_PT_T20A[topic][period]+DF_topic.Citation[idx]+'\n'
-
-#==============================================================================
 # ############################################################## Fix authorship
 #==============================================================================
             
@@ -200,10 +167,9 @@ for group_author in DF_statistique_generale.Author:
 authors = sorted(authors)
         
 DF_AT = pd.DataFrame(data='', index=range(len(authors)),columns=topicnames+['Author','Pub_sum','Pub_weighted','Pub_w_1','Pub_w_2','Pub_w_3','Pub_w_4'])
-#DF_AT_norm = pd.DataFrame(data='', index=range(len(authors)),columns=topicnames)
+DF_AT_norm = pd.DataFrame(data='', index=range(len(authors)),columns=topicnames)
 for idx,author in enumerate(authors):
     list_bool = DF_statistique_generale.Author.apply(lambda x: True if author in x else False)
-    #author_topic=sum(lda_output[list_bool])/len(lda_output[list_bool])
     author_topic=sum(lda_output[list_bool]/np.transpose(np.repeat(np.expand_dims(DF_statistique_generale.nb_authors[list_bool],axis=0), repeats=25, axis=0)))
     author_topic_norm=author_topic/sum(author_topic)
     DF_AT.loc[idx]=list(author_topic)+[author,
@@ -213,7 +179,7 @@ for idx,author in enumerate(authors):
              sum(1/DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin(['1952-1973'])]),
              sum(1/DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin(['1974-1995'])]),
              sum(1/DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin(['1996-2017'])])]
-    #DF_AT_norm.loc[idx]=list(author_topic_norm)
+    DF_AT_norm.loc[idx]=list(author_topic_norm)
  
 #==============================================================================
 # ################################################### Topic by period + author
@@ -231,6 +197,40 @@ for idx,row in DF_PAT.iterrows():
     if sum(list_bool_1 & list_bool_2):
         author_period_topic = sum(lda_output[list_bool_1 & list_bool_2]/np.transpose(np.repeat(np.expand_dims(DF_statistique_generale.nb_authors[list_bool_1 & list_bool_2],axis=0), repeats=25, axis=0)))
         DF_PAT.loc[idx]=[row[0],row[1]]+list(author_period_topic)
+        
+#==============================================================================
+# ########################################################## Author correlation
+#==============================================================================
+
+# Author Pearson Correlation
+DF_AfromT = DF_AT_norm.astype('float64').T.corr(method='pearson')
+
+Pub_weighted = DF_AT.Pub_weighted > 2
+DF_AfromT_Pub_weighted_1 = DF_AT_norm[Pub_weighted].astype('float64').T.corr(method='pearson')
+DF_AfromT_Pub_weighted_2 = DF_AfromT_Pub_weighted_1.copy()
+for i in range(len(DF_AfromT_Pub_weighted_1)):
+    DF_AfromT_Pub_weighted_2.iloc[i]=[0 if (e <= .7) else e for e in DF_AfromT_Pub_weighted_2.iloc[i]]
+
+DIC_DF_ATP = dict()
+for period_name in set(DF_statistique_generale.Period):
+    DIC_DF_ATP[period_name] = pd.DataFrame(columns=topicnames)
+    for idx,author in enumerate(authors):
+        list_bool = DF_statistique_generale[DF_statistique_generale.Period.isin([period_name])].Author.apply(lambda x: True if author in x else False)
+        if lda_output[list_bool & DF_statistique_generale.Period.isin([period_name])].size > 0 :
+            author_topic=sum(lda_output[list_bool & DF_statistique_generale.Period.isin([period_name])]/np.transpose(np.repeat(np.expand_dims(DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin([period_name])],axis=0), repeats=25, axis=0)))
+            author_topic_norm=author_topic/sum(author_topic)
+            DIC_DF_ATP[period_name].loc[idx]=list(author_topic_norm)
+
+DIC_DF_ATP_corr = dict()
+for period_name in set(DF_statistique_generale.Period):
+    DIC_DF_ATP_corr[period_name] = DIC_DF_ATP[period_name].astype('float64').T.corr(method='pearson')
+
+for period_name in set(DF_statistique_generale.Period):
+    file_path = os.path.join(main_path,
+                             "0. Data",
+                             "Authors_corr",
+                             "DF_Authors_corr_"+period_name)
+    DIC_DF_ATP_corr[period_name].where(lambda x: x >= 0.1, '').to_csv(file_path+"_plain_01_more.csv",encoding="utf-8")
       
 #==============================================================================
 # ################################################################ Save results
