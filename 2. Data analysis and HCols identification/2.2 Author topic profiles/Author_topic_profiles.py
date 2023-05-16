@@ -4,7 +4,7 @@ Spyder Editor
 Created on Tue Mar 30 20:41:42 2021
 @author: Francis Lareau
 This is Projectjstor.
-Data for diachronic and author analysis
+Author topic profiles.
 """
 
 #==============================================================================
