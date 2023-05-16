@@ -180,10 +180,10 @@ for idx,row in dataframe.iterrows():
 # ##################################################### Period and nb of author
 #==============================================================================
 
-DF_statistique_generale['Period'] = DF_statistique_generale.Year.apply(lambda x: #22 years period
+dataframe['Period'] = DF_statistique_generale.Year.apply(lambda x: #22 years period
     str(int(x)-(int(x)-1908)%22)+'-'+str((int(x)-(int(x)-1908)%22)+21))
 
-DF_statistique_generale['nb_authors'] = DF_statistique_generale.Author.apply(lambda x: len(x))
+dataframe['nb_authors'] = DF_statistique_generale.Author.apply(lambda x: len(x))
 
 #==============================================================================
 # ############################################################### Save Metadata
