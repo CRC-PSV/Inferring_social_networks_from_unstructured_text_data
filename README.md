@@ -26,7 +26,7 @@ Execute to replicate research : Topic_modeling.py
 #### 2.2 Author topic profiles
 Execute to replicate research : Author_topic_profiles.py
 #### 2.3 Author correlation networks
-Execute to replicate research : Author_correlation_networks.py
+Done with Gephy
 #### 2.4 HCol's distances
 Execute to replicate research : HCols_distances.py
 
