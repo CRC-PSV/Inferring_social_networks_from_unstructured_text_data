@@ -27,8 +27,8 @@ Execute to replicate research : Topic_modeling.py
 Execute to replicate research : Author_topic_profiles.py
 #### 2.3 Author correlation networks
 Execute to replicate research : Author_correlation_networks.py
-### Supplementary Information
-These files include the S1 Table and the data for graphs of the publication
+#### 2.4 HCol's distances
+Execute to replicate research : HCols_distances.py
 
 *Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
 
