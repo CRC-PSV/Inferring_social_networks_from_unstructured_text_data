@@ -23,7 +23,7 @@ from gensim.matutils import hellinger
 # #################################################### Initialize project paths
 #==============================================================================
 
-main_path = os.path.join("D:\\NLP\projetjstor\Consolidation\Translation") #where is input and output
+main_path = os.path.join("your_main_path")
 os.chdir(main_path)
 
 #==============================================================================
