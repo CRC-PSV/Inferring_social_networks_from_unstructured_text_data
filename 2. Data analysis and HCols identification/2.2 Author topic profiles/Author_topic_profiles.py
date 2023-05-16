@@ -228,9 +228,10 @@ for period_name in set(DF_statistique_generale.Period):
 for period_name in set(DF_statistique_generale.Period):
     file_path = os.path.join(main_path,
                              "0. Data",
-                             "Authors_corr",
-                             "DF_Authors_corr_"+period_name)
-    DIC_DF_ATP_corr[period_name].where(lambda x: x >= 0.1, '').to_csv(file_path+"_plain_01_more.csv",encoding="utf-8")
+                             "2. Data analysis and HCols identification",
+                             "2.2 Author topic profiles",
+                             "DF_Authors_corr_"+period_name+"_plain_01_more.csv")
+    DIC_DF_ATP_corr[period_name].where(lambda x: x >= 0.1, '').to_csv(file_path,encoding="utf-8")
       
 #==============================================================================
 # ################################################################ Save results
@@ -238,6 +239,7 @@ for period_name in set(DF_statistique_generale.Period):
         
 # Save lda results to excel
 writer = pd.ExcelWriter(os.path.join(main_path,
+                                     "2. Data analysis and HCols identification",
                                      "2.2 Author topic profiles",
                                      "Results_from_diachronic_and_author_analyses.xlsx"))
 df_param.T.to_excel(writer,'Para Score',encoding='utf8')      
