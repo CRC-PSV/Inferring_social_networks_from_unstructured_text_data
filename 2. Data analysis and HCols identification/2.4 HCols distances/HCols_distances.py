@@ -47,34 +47,7 @@ with open(os.path.join(main_path,
 DF_statistique_generale = pd.read_pickle(
         os.path.join(main_path,
                      "0. Data",
-                     "DF_philosophy_of_science_all_metadata.pkl"))
-
-DF_statistique_generale['Article'] = pd.read_pickle( #this one include articles that we can't publicly share
-        os.path.join(main_path,
-                     "0. Data",
-                     "Private",
-                     "DataFrame_Consolidation_updated_v2_notenglish_General_Stat_from_Tagged_v3.pkl")).Article
-        
-DF_statistique_generale['Period'] = DF_statistique_generale.Year.apply(lambda x: #22 years period
-    str(int(x)-(int(x)-1908)%22)+'-'+str((int(x)-(int(x)-1908)%22)+21))
-
-DF_statistique_generale['nb_authors'] = DF_statistique_generale.Author.apply(lambda x: len(x))
-
-#==============================================================================
-# ##################### Data statistic, lda model score and lda hyperparameters
-#==============================================================================
-  
-df_param=pd.DataFrame(index=['Value'])
-df_param['Sparsity']=((DTM.todense() > 0).sum() / 
-        DTM.todense().size*100) #sparsicity (% nonzero)
-df_param['Log Likelyhood']=ldamodel_lda.loglikelihood() #Log Likelyhood (higher better)
-df_param['Perplexity']='' #Perplexity (lower better, exp(-1. * log-likelihood per word)
-df_param['alpha']=ldamodel_lda.alpha
-df_param['eta']=ldamodel_lda.eta
-df_param['n_iter']=ldamodel_lda.n_iter
-df_param['n_components']=ldamodel_lda.n_topics
-df_param['random_state']=ldamodel_lda.random_state
-df_param['refresh']=ldamodel_lda.refresh
+                     "DF_philosophy_of_science_all_metadata_v2.pkl"))
 
 #==============================================================================
 # ########################################################### Topic by document
