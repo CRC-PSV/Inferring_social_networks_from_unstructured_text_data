@@ -118,7 +118,7 @@ for idx,row in DF_Topic_TKW.iterrows():
 #==============================================================================
             
 with open(os.path.join(main_path,
-                       "Diachronic and author analysis",
+                       "0. Data",
                        "author_to_correct.txt"), encoding='utf-8') as f:
     author_to_correct = [tuple(x.strip().split(', ',1)) for x in f]
 
@@ -132,7 +132,7 @@ for idx, x in enumerate(author_to_correct):
             
         
 with open(os.path.join(main_path,
-                       "Diachronic and author analysis",
+                       "O. Data",
                        "author_corrected.txt"), encoding='utf-8') as f:
     author_corrected = [tuple(x.strip().split(', ',1)) for x in f]
 
