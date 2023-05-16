@@ -114,40 +114,6 @@ for idx,row in DF_Topic_TKW.iterrows():
                 row['Word_8']+'; '+row['Word_9'])
 
 #==============================================================================
-# ############################################################## Fix authorship
-#==============================================================================
-            
-with open(os.path.join(main_path,
-                       "0. Data",
-                       "author_to_correct.txt"), encoding='utf-8') as f:
-    author_to_correct = [tuple(x.strip().split(', ',1)) for x in f]
-
-for idx, x in enumerate(author_to_correct):
-    if x == ('Skipper', 'Jr., Robert A.'):
-        author_to_correct[idx]=('Skipper Jr.', 'Robert A.')
-    if x == ('Godfrey-Smith', 'Peter'):
-        author_to_correct[idx]=(' Godfrey-Smith', 'Peter')
-    if x == ('Hitchcock', 'Christopher'):
-        author_to_correct[idx]=(' Hitchcock', 'Christopher')
-            
-        
-with open(os.path.join(main_path,
-                       "O. Data",
-                       "author_corrected.txt"), encoding='utf-8') as f:
-    author_corrected = [tuple(x.strip().split(', ',1)) for x in f]
-
-author_dict = dict(zip(author_to_correct, author_corrected))
-
-for idx, group_author in enumerate(DF_statistique_generale.Author):
-    group_author_fixed=list()
-    for author in group_author:
-        if author in author_to_correct:
-            group_author_fixed.append(author_dict[author])
-        else:
-            group_author_fixed.append(author)
-    DF_statistique_generale.Author[idx]=group_author_fixed            
-
-#==============================================================================
 # ############################################################# Topic by author
 #==============================================================================       
 
