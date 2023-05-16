@@ -175,6 +175,15 @@ for idx,row in dataframe.iterrows():
           '('+row.Issue+'): '+row.Page_range+'.')
     dataframe['Citation'][idx]=(author+' ('+row.Year+')'+' '+Title+' '+Journal+' '+
                      row.Volume+'('+row.Issue+'): '+row.Page_range+'.')    
+    
+#==============================================================================
+# ##################################################### Period and nb of author
+#==============================================================================
+
+DF_statistique_generale['Period'] = DF_statistique_generale.Year.apply(lambda x: #22 years period
+    str(int(x)-(int(x)-1908)%22)+'-'+str((int(x)-(int(x)-1908)%22)+21))
+
+DF_statistique_generale['nb_authors'] = DF_statistique_generale.Author.apply(lambda x: len(x))
 
 #==============================================================================
 # ############################################################### Save Metadata
@@ -182,10 +191,10 @@ for idx,row in dataframe.iterrows():
 
 dataframe[["Journal_id","Title", "Author", "Year","Volume","Issue","Page_range",
            "Citation","Article_ID","Lang_detect_1","Lang_detect_2",
-           "translated"]].to_pickle(
+           "translated",'Period','nb_authors']].to_pickle(
            os.path.join(main_path,
                         "0. Data",
-                        "DF_philosophy_of_science_all_metadata.pkl"))
+                        "DF_philosophy_of_science_all_metadata_v2.pkl"))
 
 #==============================================================================
 # ########################### Word tokenization, POS tagging, and lemmatization
