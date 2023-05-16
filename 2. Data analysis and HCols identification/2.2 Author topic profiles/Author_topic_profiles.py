@@ -200,7 +200,7 @@ for group_author in DF_statistique_generale.Author:
 authors = sorted(authors)
         
 DF_AT = pd.DataFrame(data='', index=range(len(authors)),columns=topicnames+['Author','Pub_sum','Pub_weighted','Pub_w_1','Pub_w_2','Pub_w_3','Pub_w_4'])
-DF_AT_norm = pd.DataFrame(data='', index=range(len(authors)),columns=topicnames)
+#DF_AT_norm = pd.DataFrame(data='', index=range(len(authors)),columns=topicnames)
 for idx,author in enumerate(authors):
     list_bool = DF_statistique_generale.Author.apply(lambda x: True if author in x else False)
     #author_topic=sum(lda_output[list_bool])/len(lda_output[list_bool])
@@ -213,7 +213,7 @@ for idx,author in enumerate(authors):
              sum(1/DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin(['1952-1973'])]),
              sum(1/DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin(['1974-1995'])]),
              sum(1/DF_statistique_generale.nb_authors[list_bool & DF_statistique_generale.Period.isin(['1996-2017'])])]
-    DF_AT_norm.loc[idx]=list(author_topic_norm)
+    #DF_AT_norm.loc[idx]=list(author_topic_norm)
  
 #==============================================================================
 # ################################################### Topic by period + author
