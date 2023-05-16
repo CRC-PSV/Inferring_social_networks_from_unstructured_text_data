@@ -1,0 +1,1385 @@
+Id,Label,timeset,dominant_topic,color,color_cluster,pub_sum,pub_weighted,pub_w_4,filter_>=2,label_size,node_size,modularity_class,eigencentrality,clustering,triangles
+3,"Abadía, Oscar Moro",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.081421,0.744707,1231
+11,"Abrams, Marshall",,E-Evolution (5),"#FEFAC4","#FDF176",7,,,,7,3,25,0.131105,0.978858,926
+15,"Achinstein, Peter",,C-Confirmation (20),"#DCEDC8","#AED681",22,,,,4,2,15,0.022031,0.6,27
+23,"Adam, Matthias",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,22,0.006174,0.266667,4
+25,"Adams, Ernest W.",,A-Formal (4),"#B2DFDB","#53B6AC",12,,,,2,1,12,0.030932,0.7139,529
+28,"Adams, Marcus P.",,E-Mind (11),"#FDF176","#FDF176",3,,,,3,2,0,0,0,0
+40,"Ahmed, Arif",,D-Agent-decision (8),"#DCE875","#DCE875",6,,,,5,2,24,0.021469,0.620199,436
+47,"Ainsworth, Peter Mark",,G-Particles (3),"#F3AA91","#EF8864",5,,,,5,2,26,0.083205,0.516667,62
+50,"Aizawa, Kenneth",,E-Neurosciences (13),"#DCE875","#FDF176",7,,,,6,2,13,0.019452,0.713012,400
+53,"Akeroyd, F. Michael",,G-Particles (3),"#F3AA91","#EF8864",10,,,,4,2,13,0.001787,0.785714,22
+60,"Alai, Mario",,B-Scientific-theory (1),"#66BC6A","#81C884",3,,,,3,2,22,0.013431,0.675403,335
+66,"Albert, Max",,C-Probability (9),"#AED681","#AED681",4,,,,3,2,15,0.077748,0.718693,1188
+77,"Alegre, María Caamaño",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.007954,0.676471,92
+82,"Alexander, Jason McKenzie",,D-Agent-decision (8),"#DCE875","#DCE875",8,,,,7,3,24,0.016221,0.819355,381
+86,"Alexandrova, Anna",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,9,0.012141,0.504274,177
+87,"Alfano, Mark",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.051175,0.532468,123
+95,"Allchin, Douglas",,H-Social (18),"#8D6E63","#A1887F",7,,,,4,2,19,0.051079,0.690958,512
+96,"Allen, Colin",,E-Mind (11),"#FDF176","#FDF176",8,,,,3,2,13,0.013788,0.391304,99
+98,"Allen-Hermanson, Sean",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,13,0.003541,0.602564,47
+114,"Alper, Joseph S.",,G-Quantum (14),"#EF8864","#EF8864",5,,,,2,1,26,0.918809,0.866822,4465
+116,"Alspector-Kelly, Marc",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,4,2,22,0.02713,0.419048,44
+127,"Ambrus, Valer",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.019882,0.494737,94
+133,"Andersen, Hanne",,H-Social (18),"#8D6E63","#A1887F",7,,,,6,2,19,0.080342,0.796633,1183
+134,"Andersen, Holly K.",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,4,2,13,0.019056,0.512698,323
+151,"Andreas, Holger",,A-Formal (4),"#B2DFDB","#53B6AC",10,,,,9,3,12,0.004535,0.461538,42
+152,"Andreasen, Robin O.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.208631,0.865225,2401
+156,"Angel, Leonard",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.907673,0.89899,4361
+158,"Angelides, Alexei",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.002306,0.755556,34
+161,"Angner, Erik",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.004418,0.509091,28
+163,"Ankeny, Rachel A.",,E-Evolution (5),"#FEFAC4","#FDF176",7,,,,5,2,25,0.073647,0.588235,330
+165,"Anstey, Peter R.",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.007365,0.849802,215
+168,"Antonopoulos, Constantin",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.86596,0.834841,3968
+170,"Antony, Michael V.",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.092688,0.804706,1026
+179,"Arabatzis, Theodore",,H-Social (18),"#8D6E63","#A1887F",5,,,,4,2,19,0.064419,0.820296,776
+190,"Arenhart, Jonas Rafael Becker",,F-Property (2),"#F4B74C","#F4B74C",5,,,,4,2,4,0.092798,0.749306,810
+192,"Ariew, André",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,3,2,25,0.212508,0.827173,2484
+195,"Armendt, Brad",,D-Agent-decision (8),"#DCE875","#DCE875",6,,,,2,1,24,0.040118,0.561905,354
+203,"Arntzenius, Frank",,G-Quantum (14),"#EF8864","#EF8864",14,,,,5,2,26,0.808051,0.903344,3458
+214,"Artiga, Marc",,E-Mind (11),"#FDF176","#FDF176",2,,,,2,1,13,0.006169,0.516484,47
+215,"Asay, Jamin",,B-Scientific-theory (1),"#66BC6A","#81C884",5,,,,5,2,22,0.005427,0.769231,60
+224,"Atkinson, David",,C-Probability (9),"#AED681","#AED681",11,,,,6,3,15,0.066063,0.841546,871
+236,"Aufrecht, Monica",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.094054,0.679881,1595
+239,"Austin, Christopher J.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.067714,0.699507,284
+243,"Auyang, Sunny Y.",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.037424,0.8,8
+246,"Avnur, Yuval",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.614193,0.813046,4188
+248,"Awodey, Steve",,A-Language (17),"#80CBC4","#53B6AC",3,,,,2,1,12,0.004163,0.514286,54
+256,"Azzouni, Jody",,B-Arguments (22),"#97D8A3","#81C884",6,,,,5,2,22,0.005425,0.275,33
+257,"Babich, Babette E.",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.072043,0.522475,988
+274,"Baetu, Tudor M.",,E-Evolution (5),"#FEFAC4","#FDF176",9,,,,9,3,25,0.11651,0.620392,791
+285,"Bain, Jonathan",,G-Quantum (14),"#EF8864","#EF8864",6,,,,6,2,26,0.972425,0.815397,4978
+290,"Baker, Alan",,A-Mathematical (15),"#53B6AC","#53B6AC",6,,,,6,2,12,0.005675,0.657143,69
+291,"Baker, David John",,G-Quantum (14),"#EF8864","#EF8864",6,,,,5,2,26,0.979613,0.827191,5050
+295,"Baker, Lynne Rudder",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,2,1,5,0.086662,0.640523,98
+298,"Balaguer, Mark",,B-Arguments (22),"#97D8A3","#81C884",4,,,,3,2,17,0.028334,0.582583,388
+300,"Balashov, Yury V.",,F-Property (2),"#F4B74C","#F4B74C",5,,,,2,1,4,0.136084,0.678766,1122
+310,"Ballantyne, Nathan",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.590342,0.782626,3874
+312,"Ballarin, Roberta",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.019537,0.57971,160
+317,"Baltag, Alexandru",,A-Truth (23),"#439788","#53B6AC",5,,,,2,2,12,0.033919,0.721254,621
+319,"Baltimore, Joseph A.",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.119901,0.757123,1674
+320,"Balzer, Wolfgang",,A-Formal (4),"#B2DFDB","#53B6AC",26,,,,5,2,12,0.002443,0.5,14
+323,"Bandyopadhyay, Prasanta S.",,C-Probability (9),"#AED681","#AED681",9,,,,4,2,9,0.010503,0.368421,63
+325,"Bangu, Sorin Ioan",,F-Explanation (16),"#F7CD7F","#F4B74C",7,,,,7,3,13,0.002294,0.266667,4
+326,"Banks, Erik C.",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.00126,1,15
+331,"Bar-On, Dorit",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.135569,0.672365,236
+346,"Barker, Matthew J.",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.213073,0.808828,2492
+355,"Barnes, Eric",,F-Explanation (16),"#F7CD7F","#F4B74C",10,,,,3,2,15,0.003836,0.25,7
+356,"Barnes, Eric Christian",,B-Knowledge (21),"#81C884","#81C884",5,,,,5,2,15,0.013816,0.30303,20
+362,"Baron, Sam",,B-Arguments (22),"#97D8A3","#81C884",8,,,,8,3,4,0.037076,0.550725,152
+365,"Barrett, David A.",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.023324,0.539313,487
+366,"Barrett, Jeffrey Alan",,G-Quantum (14),"#EF8864","#EF8864",22,,,,19,4,26,0.837719,0.946629,3707
+370,"Barrett, Thomas William",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,26,0.291235,0.75873,478
+371,"Barrios, Edison",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,17,0.002688,0.9,9
+372,"Barros, D. Benjamin",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.055937,0.750988,190
+375,"Bartelborth, Thomas",,F-Explanation (16),"#F7CD7F","#F4B74C",6,,,,5,2,9,0.004591,0.642857,18
+376,"Bartels, Andreas",,G-Quantum (14),"#EF8864","#EF8864",7,,,,4,2,26,0.689849,0.716133,2437
+378,"Bartha, Paul",,C-Probability (9),"#AED681","#AED681",6,,,,4,2,15,0.084947,0.667163,1345
+393,"Bassler, O. Bradley",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.015522,0.554054,369
+399,"Batens, Diderik",,A-Truth (23),"#439788","#53B6AC",4,,,,2,2,12,0.040849,0.672157,857
+402,"Batitsky, Vadim",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,4,2,12,0.002855,0.444444,16
+405,"Batterman, Robert W.",,G-Quantum (14),"#EF8864","#EF8864",17,,,,10,3,13,0.02456,0.463203,107
+413,"Baumann, Peter",,B-Knowledge (21),"#81C884","#81C884",9,,,,9,3,5,0.608331,0.780887,4102
+416,"Baumgartner, Michael",,F-Causation (19),"#FFDFAC","#F4B74C",11,,,,9,3,9,0.01106,0.737892,259
+417,"Baumslag, David",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.082094,0.677049,1239
+431,"Beatty, John H.",,E-Evolution (5),"#FEFAC4","#FDF176",10,,,,3,2,25,0.153178,0.873401,1297
+436,"Beavers, Anthony F.",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.007739,0.577778,26
+437,"Bechtel, P. William",,E-Neurosciences (13),"#DCE875","#FDF176",26,,,,12,3,13,0.024499,0.608637,451
+443,"Becker, Kelly",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.582867,0.815077,3795
+451,"Bedard, Katherine",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.949673,0.855705,4762
+453,"Bedau, Mark A.",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,2,2,25,0.05812,0.417497,377
+456,"Beebe, James R.",,B-Knowledge (21),"#81C884","#81C884",5,,,,5,2,5,0.398946,0.935484,1769
+463,"Beisbart, Claus",,G-Quantum (14),"#EF8864","#EF8864",6,,,,5,2,26,0.332499,0.821862,609
+464,"Beiser, Frederick",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.004337,0.507353,69
+468,"Belkind, Ori",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.007439,0.768116,212
+477,"Bellotti, Luca",,A-Language (17),"#80CBC4","#53B6AC",4,,,,3,2,12,0.004348,0.450549,41
+479,"Belnap, Nuel",,F-Causation (19),"#FFDFAC","#F4B74C",9,,,,4,2,9,0.009017,0.699605,177
+480,"Belot, Gordon",,G-Quantum (14),"#EF8864","#EF8864",13,,,,10,3,26,1,0.760829,5252
+481,"Belousek, Darrin W.",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.873505,0.865765,4031
+486,"Ben-Menahem, Yemima",,B-Arguments (22),"#97D8A3","#81C884",7,,,,3,2,12,0.003301,0.409524,43
+505,"Beni, Majid Davoody",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,3,2,13,0.000912,1,1
+521,"Benétreau-Dupin, Yann",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.087585,0.735615,1483
+541,"Berkovitz, Joseph",,C-Probability (9),"#AED681","#AED681",3,,,,2,1,15,0.055285,0.876245,616
+546,"Bermúdez, José Luis",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.009081,0.908497,139
+548,"Bernecker, Sven",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.572805,0.819933,3661
+555,"Berry, Sharon",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.081514,0.602941,82
+570,"Betz, Gregor",,A-Truth (23),"#439788","#53B6AC",9,,,,9,3,12,0.001898,0.4,4
+572,"Beyer, Christian",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.021522,0.913978,425
+575,"Bhakthavatsalam, Sindhuja",,B-Scientific-theory (1),"#66BC6A","#81C884",3,,,,3,2,22,0.020315,0.732804,277
+583,"Bicchieri, Cristina",,D-Agent-decision (8),"#DCE875","#DCE875",9,,,,2,1,24,0.018317,0.68254,430
+586,"Bickle, John",,E-Neurosciences (13),"#DCE875","#FDF176",5,,,,3,2,13,0.020259,0.684492,384
+587,"Biddle, Justin B.",,H-Social (18),"#8D6E63","#A1887F",6,,,,6,2,19,0.092828,0.658142,1544
+590,"Bigaj, Tomasz",,F-Causation (19),"#FFDFAC","#F4B74C",6,,,,6,2,9,0.009592,0.652174,165
+600,"Birch, Jonathan",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,4,2,25,0.1601,0.855414,1414
+602,"Bird, Alexander",,F-Property (2),"#F4B74C","#F4B74C",10,,,,10,3,22,0.003235,0.333333,1
+612,"Bishop, Michael A.",,B-Arguments (22),"#97D8A3","#81C884",7,,,,5,2,22,0.005778,0.533333,56
+613,"Bishop, Robert C.",,G-Quantum (14),"#EF8864","#EF8864",4,,,,4,2,26,0.818869,0.829593,3549
+619,"Blachowicz, James A.",,C-Confirmation (20),"#DCEDC8","#AED681",9,,,,4,2,15,0.000712,0.333333,2
+625,"Blackburn, Patrick",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.044256,0.580201,926
+645,"Bloor, David",,B-Arguments (22),"#97D8A3","#81C884",10,,,,4,2,19,0.043788,0.804301,374
+671,"Bogdan, Radu J.",,E-Mind (11),"#FDF176","#FDF176",3,,,,2,1,13,0.004252,0.95,114
+672,"Bogen, James",,C-Experiment (12),"#C5E2A5","#AED681",10,,,,6,2,9,0.00033,0,0
+680,"Bokulich, Alisa",,F-Explanation (16),"#F7CD7F","#F4B74C",7,,,,7,3,13,0.043991,0.490028,172
+681,"Bokulich, Peter",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.991733,0.788711,5170
+686,"Bolinska, Agnes",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.019365,0.645378,384
+693,"Bonanno, Giacomo",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.026665,0.598862,421
+696,"Bonilla, Jesús P. Zamora",,B-Scientific-theory (1),"#66BC6A","#81C884",7,,,,6,2,22,0.000698,1,1
+697,"Boniolo, Giovanni",,H-Classics (24),"#D8CCC7","#A1887F",4,,,,2,1,25,0.004254,0.333333,1
+706,"Bontly, Thomas D.",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,4,0.010619,0.417582,38
+712,"Boon, Mieke",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,3,2,13,0.008478,0.444444,68
+713,"Boone, Worth",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,2,1,13,0.011182,0.463333,139
+715,"Boos, William",,A-Formal (4),"#B2DFDB","#53B6AC",8,,,,5,2,12,0.006554,0.626374,57
+716,"Booth, Anthony Robert",,B-Knowledge (21),"#81C884","#81C884",5,,,,5,2,5,0.609398,0.81901,4136
+725,"Borges, Rodrigo",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.601676,0.868342,4043
+736,"Boschetti, Fabio",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.002929,0.9,9
+740,"Bostrom, Nick",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.085573,0.746166,1411
+747,"Bouchard, Frédéric",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,2,1,25,0.211793,0.842447,2465
+756,"Boumans, Marcel",,C-Experiment (12),"#C5E2A5","#AED681",6,,,,4,2,9,0.020334,0.544538,324
+762,"Bourrat, Pierrick",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,2,1,25,0.212293,0.823843,2474
+764,"Bovens, Luc",,C-Probability (9),"#AED681","#AED681",7,,,,3,2,15,0.072925,0.628283,933
+786,"Brading, Katherine",,G-Quantum (14),"#EF8864","#EF8864",6,,,,5,2,26,0.196499,0.650794,246
+787,"Bradley, Darren J.",,C-Probability (9),"#AED681","#AED681",6,,,,6,2,15,0.089275,0.717308,1492
+791,"Bradley, Richard",,C-Probability (9),"#AED681","#AED681",12,,,,9,3,15,0.078942,0.711434,1176
+792,"Bradley, Seamus",,A-Formal (4),"#B2DFDB","#53B6AC",5,,,,3,2,15,0.025744,0.433498,176
+797,"Brain, Robert Michael",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.015093,0.563492,213
+805,"Brandon, Robert N.",,E-Evolution (5),"#FEFAC4","#FDF176",14,,,,3,2,25,0.208223,0.840702,2396
+817,"Bremer, Manuel E.",,A-Truth (23),"#439788","#53B6AC",3,,,,2,1,1,0,0,0
+818,"Brendel, Elke",,B-Knowledge (21),"#81C884","#81C884",5,,,,3,2,5,0.52462,0.908022,3090
+823,"Brenner, Andrew",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.122465,0.727831,1658
+826,"Breuer, Thomas",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.935928,0.88083,4627
+827,"Brewer, William F.",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,2,1,9,0.004085,0.75,21
+831,"Bridger, Mark",,G-Quantum (14),"#EF8864","#EF8864",5,,,,2,1,26,0.918809,0.866822,4465
+834,"Brigandt, Ingo",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,4,2,25,0.185798,0.804774,1888
+835,"Briggs, Rachael",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.10343,0.910015,1254
+836,"Brighouse, Carolyn",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.672433,0.694093,2362
+844,"Brittan, Gordon G.",,B-Arguments (22),"#97D8A3","#81C884",8,,,,3,2,15,0.005378,0.285714,6
+855,"Brogaard, Berit",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.148468,0.780627,274
+858,"Broncano-Berrocal, Fernando",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.550887,0.914461,3421
+869,"Brown, Campbell",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,5,0.118219,0.498575,175
+875,"Brown, Harold I.",,B-Arguments (22),"#97D8A3","#81C884",14,,,,2,1,22,0.004171,0.8,12
+876,"Brown, Harvey R.",,G-Quantum (14),"#EF8864","#EF8864",10,,,,3,2,26,0.979689,0.827355,5051
+878,"Brown, James Robert",,B-Arguments (22),"#97D8A3","#81C884",13,,,,3,2,12,0.001631,0.7,7
+882,"Brown, Matthew J.",,H-Social (18),"#8D6E63","#A1887F",6,,,,6,2,19,0.068333,0.873737,865
+889,"Brueckner, Anthony",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.581459,0.776129,3765
+893,"Brun, Georg",,A-Language (17),"#80CBC4","#53B6AC",3,,,,3,2,12,0.009033,0.324675,75
+894,"Bruner, Justin P.",,D-Agent-decision (8),"#DCE875","#DCE875",6,,,,3,2,24,0.013202,0.717949,252
+898,"Brush, Stephen G.",,G-Particles (3),"#F3AA91","#EF8864",7,,,,4,2,13,0.003279,0.824176,75
+906,"Brössel, Peter",,C-Probability (9),"#AED681","#AED681",6,,,,5,2,15,0.064458,0.787234,851
+910,"Bub, Jeffrey",,G-Quantum (14),"#EF8864","#EF8864",12,,,,2,1,26,0.802561,0.957423,3418
+921,"Buckner, Cameron",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,2,2,13,0.026822,0.437863,377
+929,"Bueno, Otávio",,A-Formal (4),"#B2DFDB","#53B6AC",20,,,,14,4,12,0.001556,0.333333,7
+951,"Burgess, Simon",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.019722,0.655556,413
+959,"Burnston, Daniel C.",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,3,2,13,0.02236,0.573171,470
+968,"Busch, Jacob",,B-Scientific-theory (1),"#66BC6A","#81C884",7,,,,7,3,22,0.014482,0.677362,380
+981,"Butler, Keith",,E-Neurosciences (13),"#DCE875","#FDF176",5,,,,2,1,4,0.025801,0.549708,94
+983,"Butterfield, Jeremy N.",,G-Quantum (14),"#EF8864","#EF8864",20,,,,8,3,26,0.947531,0.849775,4729
+985,"Button, Tim",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.001606,0.466667,7
+989,"Buzzoni, Marco",,H-Philosophy (6),"#A1887F","#A1887F",6,,,,6,2,19,0.002812,0.857143,24
+992,"Byrd, Jeremy Allen",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,24,0.011719,0.621212,41
+997,"Bächtold, Manuel",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.904924,0.859604,4341
+1000,"Båve, Arvid",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,4,2,17,0.037955,0.538824,687
+1001,"Béziau, Jean-Yves",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.000599,0.333333,1
+1006,"Böök, Lukas",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.000458,1,1
+1020,"Calcott, Brett",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,2,1,25,0.099281,0.640592,606
+1023,"Callender, Craig",,G-Quantum (14),"#EF8864","#EF8864",12,,,,7,3,26,0.994891,0.766578,5202
+1024,"Callergård, Robert",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.007772,0.773333,232
+1027,"Cameron, Ross Paul",,F-Property (2),"#F4B74C","#F4B74C",5,,,,5,2,4,0.128572,0.768944,1857
+1028,"Camilleri, Kristian",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.00445,0.857143,78
+1034,"Campbell, Neil",,E-Perception (10),"#F9D849","#FDF176",5,,,,5,2,13,0.003669,0.736264,67
+1041,"Caneva, Kenneth L.",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.097614,0.644977,1695
+1047,"Cantwell, John",,A-Truth (23),"#439788","#53B6AC",5,,,,5,2,12,0.037819,0.633816,656
+1051,"Cao, Tian Yu",,G-Quantum (14),"#EF8864","#EF8864",5,,,,4,2,26,0.067429,0.461538,36
+1070,"Cariani, Fabrizio",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,2,2,12,0.014762,0.470356,119
+1078,"Carman, Christián Carlos",,H-Classics (24),"#D8CCC7","#A1887F",4,,,,4,2,2,0.007914,0.641026,225
+1086,"Carrier, Martin",,G-Particles (3),"#F3AA91","#EF8864",16,,,,5,2,19,0.002972,1,1
+1088,"Carruthers, Peter",,E-Mind (11),"#FDF176","#FDF176",4,,,,3,2,13,0.006382,0.557971,154
+1093,"Carter, J. Adam",,B-Knowledge (21),"#81C884","#81C884",10,,,,7,3,5,0.614193,0.813046,4188
+1094,"Carter, Jessica",,A-Mathematical (15),"#53B6AC","#53B6AC",6,,,,6,2,12,0.011259,0.597884,226
+1100,"Cartwright, Nancy Delaney",,F-Causation (19),"#FFDFAC","#F4B74C",30,,,,13,4,9,0.011064,0.488172,227
+1102,"Carus, A. W.",,A-Language (17),"#80CBC4","#53B6AC",3,,,,2,1,12,0.003031,0.589744,46
+1105,"Casini, Lorenzo",,F-Causation (19),"#FFDFAC","#F4B74C",4,,,,4,2,9,0.009147,0.687747,174
+1107,"Cassam, Quassim",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.610875,0.82297,4156
+1116,"Casullo, Albert",,B-Knowledge (21),"#81C884","#81C884",4,,,,2,1,5,0.590515,0.835911,3892
+1117,"Cat, Jordi",,G-Particles (3),"#F3AA91","#EF8864",5,,,,4,2,13,0.000963,0.1,1
+1121,"Catterson, Troy",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.109562,0.811806,1389
+1123,"Caulton, Adam",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.787917,0.824469,3302
+1128,"Cellucci, Carlo",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,2,1,12,0.00483,0.863636,57
+1134,"Cevolani, Gustavo",,A-Truth (23),"#439788","#53B6AC",7,,,,4,2,12,0.006043,0.428571,12
+1135,"Chakravartty, Anjan",,B-Arguments (22),"#97D8A3","#81C884",10,,,,10,3,22,0.008826,0.3,63
+1136,"Chalmers, Alan F.",,H-Classics (24),"#D8CCC7","#A1887F",18,,,,8,3,2,0.007158,0.766798,194
+1141,"Chandler, Jake",,C-Probability (9),"#AED681","#AED681",7,,,,7,3,15,0.06985,0.393237,407
+1144,"Chang, Hasok",,G-Particles (3),"#F3AA91","#EF8864",15,,,,10,3,13,0.004577,0.675,81
+1145,"Changizi, Mark A.",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,3,2,12,0.003798,0.509091,28
+1149,"Charland, Louis C.",,E-Mind (11),"#FDF176","#FDF176",3,,,,2,1,13,0.005912,0.636364,147
+1152,"Charpa, Ulrich",,H-Social (18),"#8D6E63","#A1887F",7,,,,2,1,19,0.040894,0.631016,354
+1154,"Chase, James Kennedy",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.038654,0.504228,477
+1160,"Chemero, Anthony",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,3,2,13,0.02213,0.603659,495
+1163,"Chen, Xiang",,H-Classics (24),"#D8CCC7","#A1887F",12,,,,7,3,3,0,0,0
+1174,"Cheung, Leo K. C.",,A-Language (17),"#80CBC4","#53B6AC",3,,,,3,2,12,0.004562,0.368421,63
+1179,"Chierchia, Gennaro",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.027283,0.811066,601
+1184,"Chimisso, Cristina",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.064678,0.693027,815
+1187,"Chirimuuta, M.",,E-Perception (10),"#F9D849","#FDF176",5,,,,5,2,13,0.00544,0.503268,77
+1189,"Choi, Sungho",,F-Causation (19),"#FFDFAC","#F4B74C",8,,,,8,3,9,0.015382,0.605072,167
+1209,"Churchland, Paul M.",,E-Perception (10),"#F9D849","#FDF176",6,,,,3,2,13,0.003958,0.714286,75
+1225,"Clark, Andy",,E-Neurosciences (13),"#DCE875","#FDF176",6,,,,3,2,13,0.005988,0.405263,77
+1234,"Clarke, Christopher",,D-Agent-decision (8),"#DCE875","#DCE875",4,,,,4,2,24,0.003684,0.133333,2
+1242,"Clarke, Steve",,H-Social (18),"#8D6E63","#A1887F",5,,,,4,2,19,0.071433,0.612987,944
+1244,"Clatterbuck, Hayley",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.11337,0.876829,719
+1246,"Claveau, François",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,2,1,9,0.01594,0.519328,309
+1250,"Cleland, Carol E.",,F-Causation (19),"#FFDFAC","#F4B74C",4,,,,3,2,25,0.001368,0,0
+1256,"Clifton, Robert K.",,G-Quantum (14),"#EF8864","#EF8864",13,,,,6,2,26,0.970788,0.843697,4966
+1263,"Cobb, Aaron D.",,G-Particles (3),"#F3AA91","#EF8864",3,,,,3,2,13,0.003643,0.514286,54
+1271,"Coffman, E. J.",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.614044,0.812269,4184
+1284,"Cohen, Michael P.",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.075182,0.817126,1126
+1291,"Cohnitz, Daniel",,B-Arguments (22),"#97D8A3","#81C884",3,,,,2,1,5,0.049847,0.533333,56
+1301,"Coliva, Annalisa",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.561741,0.901685,3531
+1305,"Collins, Harry M.",,C-Experiment (12),"#C5E2A5","#AED681",13,,,,7,3,19,0.039639,0.645161,300
+1306,"Collins, John",,B-Arguments (22),"#97D8A3","#81C884",6,,,,5,2,17,0.00771,0.450549,41
+1309,"Colombo, Matteo",,E-Neurosciences (13),"#DCE875","#FDF176",6,,,,4,2,13,0.021233,0.596096,397
+1311,"Colyvan, Mark",,B-Arguments (22),"#97D8A3","#81C884",5,,,,4,2,22,0.005987,0.591667,71
+1312,"Comesaña, Juan",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.443122,0.869618,2161
+1315,"Conitzer, Vincent",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.050745,0.58885,507
+1320,"Contessa, Gabriele",,F-Property (2),"#F4B74C","#F4B74C",6,,,,6,2,4,0.022644,0.455882,62
+1324,"Cook, Roy T.",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,3,2,12,0.01385,0.506667,152
+1339,"Copeland, B. Jack",,E-Neurosciences (13),"#DCE875","#FDF176",6,,,,4,2,12,0.001893,0.666667,2
+1344,"Corazza, Eros",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,4,2,17,0.023851,0.914439,513
+1348,"Cordero, Alberto",,G-Quantum (14),"#EF8864","#EF8864",5,,,,4,2,26,0.299539,0.838655,499
+1350,"Corfield, David",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,3,2,12,0.010426,0.778986,215
+1370,"Couch, Mark B.",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,4,2,13,0.017414,0.467692,152
+1378,"Cowie, Christopher",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.595399,0.814265,3950
+1379,"Cowie, Fiona",,E-Mind (11),"#FDF176","#FDF176",2,,,,2,1,13,0.002276,0.428571,12
+1380,"Cowling, Sam",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.130433,0.730974,1921
+1388,"Craig, William Lane",,G-Quantum (14),"#EF8864","#EF8864",14,,,,7,3,17,0.00235,0.2,2
+1392,"Crasnow, Sharon L.",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,9,0.002568,0.392857,11
+1393,"Craver, Carl F.",,E-Neurosciences (13),"#DCE875","#FDF176",11,,,,9,3,13,0.024666,0.557032,503
+1407,"Cresto, Eleonora",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.045195,0.409231,133
+1414,"Cross, Charles B.",,A-Truth (23),"#439788","#53B6AC",6,,,,4,2,12,0.016858,0.657143,138
+1418,"Crowell, Steven",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.004258,0.5,33
+1424,"Crupi, Vincenzo",,C-Probability (9),"#AED681","#AED681",8,,,,3,2,15,0.071317,0.689029,986
+1425,"Cruse, Pierre",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.013928,0.597148,335
+1428,"Cuffaro, Michael E.",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.782725,0.882353,3225
+1439,"Cunningham, Andrew",,H-History (0),"#BCAAA4","#A1887F",4,,,,3,2,19,0.00865,0.641304,177
+1445,"Curiel, Erik",,G-Quantum (14),"#EF8864","#EF8864",4,,,,4,2,26,0.978497,0.79646,5040
+1447,"Currie, Adrian",,E-Evolution (5),"#FEFAC4","#FDF176",10,,,,8,3,25,0.20316,0.746587,2242
+1462,"D'Agostino, Fred B.",,B-Arguments (22),"#97D8A3","#81C884",8,,,,3,2,19,0.088466,0.685096,1425
+1473,"Dacey, Mike",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,3,2,13,0.008777,0.477124,73
+1474,"Dacey, Raymond",,D-Agent-decision (8),"#DCE875","#DCE875",7,,,,2,1,24,0.018317,0.68254,430
+1480,"Daly, Chris John",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,17,0.073723,0.320197,130
+1482,"Damböck, Christian",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.006309,0.397059,54
+1491,"Danks, David",,C-Experiment (12),"#C5E2A5","#AED681",7,,,,4,2,9,0.008568,0.519048,109
+1497,"Darden, Lindley",,E-Evolution (5),"#FEFAC4","#FDF176",10,,,,2,2,13,0.039755,0.496124,448
+1498,"Darling, Karen Merikangas",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.011824,0.843077,274
+1501,"Darrigol, Olivier",,G-Quantum (14),"#EF8864","#EF8864",4,,,,4,2,26,0.751423,0.888628,3024
+1515,"Davey, Kevin",,G-Particles (3),"#F3AA91","#EF8864",6,,,,6,2,26,0.095878,0.509524,107
+1519,"Davies, David",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,3,2,22,0.00499,0.380952,8
+1520,"Davies, E. B.",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,26,0.015976,0.833333,5
+1531,"Dawes, Robyn M.",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.007852,0.75,90
+1534,"Dawid, Richard",,C-Experiment (12),"#C5E2A5","#AED681",6,,,,5,2,9,0.007568,0.683333,82
+1552,"De Bruin, Boudewijn",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.020915,0.684127,431
+1570,"De Jong, Willem R.",,H-Philosophy (6),"#A1887F","#A1887F",3,,,,3,2,19,0.00332,0.383333,46
+1574,"De Langhe, Rogier",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,24,0.00354,0.47619,10
+1575,"De Laplante, Kevin",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.000659,0,0
+1581,"De Melo-Martín, Inmaculada",,H-Social (18),"#8D6E63","#A1887F",3,,,,2,1,19,0.075857,0.711785,1057
+1594,"De Regt, Henk W.",,F-Explanation (16),"#F7CD7F","#F4B74C",12,,,,10,3,13,0.009479,0.590643,101
+1596,"De Renzi, Silvia",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.008033,0.8,168
+1598,"De Sa, Dan López",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.030297,0.736434,665
+1615,"DeVito, Scott",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.00656,0.654412,89
+1619,"Dear, Peter",,H-History (0),"#BCAAA4","#A1887F",3,,,,2,1,19,0.015041,0.445652,123
+1622,"Decker, Jason",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.575095,0.706076,3637
+1630,"Delancey, Craig Stephen",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,3,2,13,0.023004,0.567816,247
+1637,"Dellsén, Finnur",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,22,0.005601,0.361111,13
+1638,"Deltete, Robert J.",,G-Particles (3),"#F3AA91","#EF8864",4,,,,3,2,13,0.006917,0.666667,70
+1639,"Demarest, Heather",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.025158,0.628571,132
+1640,"Demeter, Tamás",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.004056,0.666667,10
+1644,"Demopoulos, William",,A-Formal (4),"#B2DFDB","#53B6AC",8,,,,3,2,12,0.001779,0.357143,10
+1657,"Derksen, Anthony A.",,B-Arguments (22),"#97D8A3","#81C884",5,,,,2,1,13,0.000963,0.5,3
+1659,"DesAutels, Lane",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.011404,0.710526,135
+1667,"Deutsch, David",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.546041,0.963033,1537
+1669,"Deutsch, Max",,E-Perception (10),"#F9D849","#FDF176",2,,,,2,1,13,0.003669,0.736264,67
+1674,"Devitt, Michael",,B-Arguments (22),"#97D8A3","#81C884",6,,,,6,2,17,0.002363,0.333333,2
+1687,"DiSalle, Robert",,H-Classics (24),"#D8CCC7","#A1887F",5,,,,3,2,2,0.007919,0.72,234
+1690,"Dicken, Paul",,B-Scientific-theory (1),"#66BC6A","#81C884",3,,,,3,2,22,0.01576,0.58037,408
+1694,"Dickson, W. Michael",,G-Quantum (14),"#EF8864","#EF8864",12,,,,7,3,26,0.973247,0.816708,4986
+1699,"Dieks, Dennis",,G-Quantum (14),"#EF8864","#EF8864",15,,,,6,2,26,0.568672,0.948023,1678
+1710,"Dietz, Richard",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.004472,0.577778,26
+1712,"Dieveney, Patrick S.",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,4,2,22,0.01468,0.53003,353
+1719,"Dinges, Alexander",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.599442,0.730769,3990
+1723,"Dipert, Randall R.",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.000147,0,0
+1729,"Dizadji-Bahmani, Foad",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.873073,0.783925,4038
+1735,"Dodd, Dylan",,B-Knowledge (21),"#81C884","#81C884",6,,,,6,2,5,0.465774,0.683221,2325
+1744,"Dokic, Jérôme",,E-Perception (10),"#F9D849","#FDF176",4,,,,3,2,13,0.024829,0.444444,16
+1747,"Domski, Mary",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,3,2,12,0.003962,0.577778,26
+1756,"Doppelt, Gerald D.",,B-Scientific-theory (1),"#66BC6A","#81C884",9,,,,4,2,22,0.012268,0.777778,294
+1758,"Dorato, Mauro",,G-Quantum (14),"#EF8864","#EF8864",5,,,,5,2,26,0.865919,0.833368,3961
+1759,"Doria, Francisco Antonio",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.011837,0.381773,155
+1772,"Douglas, Heather E.",,H-Social (18),"#8D6E63","#A1887F",8,,,,8,3,19,0.075337,0.57377,1050
+1775,"Douven, Igor",,B-Arguments (22),"#97D8A3","#81C884",28,,,,20,4,15,0.04665,0.393333,118
+1777,"Dowe, Phil",,F-Causation (19),"#FFDFAC","#F4B74C",13,,,,7,3,9,0.012103,0.687192,279
+1779,"Downes, Stephen M.",,H-Social (18),"#8D6E63","#A1887F",6,,,,3,2,19,0.003914,0.5,3
+1782,"Dragulinescu, Stefan",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.077471,0.852497,734
+1793,"Dresner, Eli",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.005302,0.458333,55
+1794,"Dretske, Fred I.",,B-Knowledge (21),"#81C884","#81C884",11,,,,3,2,5,0.514101,0.914198,2962
+1795,"Drewery, Alice",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.12474,0.787533,1794
+1799,"Driscoll, Catherine",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.193467,0.828571,2059
+1801,"Drouet, Isabelle",,F-Causation (19),"#FFDFAC","#F4B74C",3,,,,2,1,9,0.010248,0.712251,250
+1810,"Ducheyne, Steffen",,H-Classics (24),"#D8CCC7","#A1887F",6,,,,6,2,2,0.007008,0.831169,192
+1820,"Dumsday, Travis",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.126733,0.805531,1835
+1828,"Dunlop, Katherine",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,3,2,12,0.001736,0.7,7
+1834,"Dupré, John",,E-Evolution (5),"#FEFAC4","#FDF176",7,,,,5,2,25,0.198323,0.826484,2172
+1845,"Duwell, Armond",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.925843,0.879247,4529
+1852,"Díez, José A.",,A-Formal (4),"#B2DFDB","#53B6AC",9,,,,7,3,12,0.000568,0.666667,2
+1854,"Döring, Frank",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.089541,0.707692,1518
+1861,"Eagle, Antony",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.038674,0.714943,311
+1864,"Earman, John",,G-Quantum (14),"#EF8864","#EF8864",38,,,,15,4,26,0.986388,0.80847,5116
+1865,"Earnshaw-Whyte, Eugene",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.211793,0.842447,2465
+1867,"Easwaran, Kenny",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.002486,1,3
+1870,"Eberhardt, Frederick",,F-Causation (19),"#FFDFAC","#F4B74C",7,,,,6,2,9,0.011471,0.548387,255
+1874,"Ebert, Theodor",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.003905,0.357143,10
+1875,"Echeverri, Santiago",,E-Perception (10),"#F9D849","#FDF176",2,,,,2,1,13,0.00682,0.532164,91
+1891,"Effingham, Nikk",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.14653,0.767677,1140
+1893,"Egan, Andy",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.038089,0.754936,650
+1894,"Egan, Frances",,E-Neurosciences (13),"#DCE875","#FDF176",5,,,,3,2,13,0.006309,0.675,81
+1896,"Egg, Matthias",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.189565,0.789855,218
+1903,"Ehrlich, Philip",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,2,1,12,0.011695,0.571429,232
+1909,"Eklund, Matti",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,12,0.007786,0.292398,50
+1915,"Elga, Adam",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.006168,0.616667,74
+1918,"Elgin, Catherine Z.",,A-Sentence (7),"#4BA69A","#53B6AC",7,,,,2,1,17,0.02254,0.75,396
+1922,"Eliasmith, Chris",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,3,2,13,0.020117,0.615616,410
+1925,"Ellerman, David P.",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,12,0.025228,0.505495,46
+1929,"Elliott, Kevin C.",,C-Experiment (12),"#C5E2A5","#AED681",10,,,,8,3,9,0.026665,0.457317,375
+1944,"Emery, Nina",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,4,0.005527,0.25,9
+1949,"Endicott, Ronald P.",,F-Property (2),"#F4B74C","#F4B74C",3,,,,2,1,4,0.113455,0.769585,1503
+1956,"Engelhardt, Jeff",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.102689,0.788312,1214
+1959,"Engler, Gideon",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.145523,0.777778,133
+1964,"Ereshefsky, Marc",,E-Evolution (5),"#FEFAC4","#FDF176",13,,,,7,3,25,0.208631,0.865225,2401
+1974,"Ernst, Zachary",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,3,2,24,0.013237,0.591667,71
+1975,"Eronen, Markus I.",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,4,2,13,0.012177,0.367589,93
+1976,"Erwin, Edward",,E-Mind (11),"#FDF176","#FDF176",6,,,,2,1,9,0.002115,0.285714,6
+1979,"Escobar, Jorge M.",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.001541,0.714286,15
+1980,"Esfeld, Michael",,G-Quantum (14),"#EF8864","#EF8864",13,,,,9,3,26,0.590434,0.709703,1814
+1989,"Eva, Benjamin",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.088415,0.378462,123
+1997,"Evans, Robert",,H-Social (18),"#8D6E63","#A1887F",5,,,,2,2,19,0.064425,0.692376,781
+1998,"Everett, Anthony",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.104579,0.77072,1274
+1999,"Everett, Theodore J.",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.0105,0.573099,98
+2001,"Evnine, Simon J.",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.590292,0.852412,3887
+2006,"Fagan, Melinda Bonnie",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,6,2,25,0.10371,0.608696,658
+2007,"Fahrbach, Ludwig",,B-Scientific-theory (1),"#66BC6A","#81C884",5,,,,4,2,22,0.011741,0.656085,248
+2011,"Fairweather, Abrol",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.333142,0.761278,1215
+2019,"Falkenburg, Brigitte",,G-Particles (3),"#F3AA91","#EF8864",2,,,,2,1,13,0.004393,0.6,63
+2021,"Fallis, Don",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.003899,0.866667,39
+2032,"Farkas, Katalin",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.294452,0.646753,996
+2040,"Farrell, Robert P.",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.009101,0.5,14
+2043,"Faulkner, Paul",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.606364,0.827677,4097
+2051,"Feest, Uljana",,H-Social (18),"#8D6E63","#A1887F",7,,,,7,3,19,0.007985,0.436364,24
+2052,"Feferman, Solomon",,A-Mathematical (15),"#53B6AC","#53B6AC",8,,,,4,2,12,0.015716,0.565079,356
+2055,"Fehér, Márta",,H-Classics (24),"#D8CCC7","#A1887F",6,,,,3,2,2,0.003362,0.709091,39
+2059,"Feintzeig, Benjamin",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.85629,0.818851,3892
+2092,"Festa, Roberto",,C-Probability (9),"#AED681","#AED681",7,,,,4,2,15,0.044905,0.846774,420
+2093,"Fetzer, James H.",,C-Confirmation (20),"#DCEDC8","#AED681",16,,,,2,1,15,0.00199,0.333333,2
+2095,"Feyerabend, Paul K.",,H-Philosophy (6),"#A1887F","#A1887F",13,,,,2,1,13,0.000662,0.166667,1
+2104,"Figdor, Carrie",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.016497,0.758621,330
+2114,"Fine, Kit",,A-Truth (23),"#439788","#53B6AC",5,,,,3,2,12,0.0193,0.588933,149
+2120,"Finocchiaro, Maurice A.",,H-Classics (24),"#D8CCC7","#A1887F",11,,,,3,2,2,0.004366,0.679487,53
+2127,"Fischer, Eugen",,B-Arguments (22),"#97D8A3","#81C884",6,,,,6,2,17,0.022408,0.366667,44
+2140,"Fisher, Tyrus",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.010345,0.735385,239
+2143,"Fitelson, Branden",,C-Probability (9),"#AED681","#AED681",14,,,,10,3,15,0.078045,0.697838,1194
+2150,"Fitzpatrick, Simon",,C-Confirmation (20),"#DCEDC8","#AED681",2,,,,2,1,22,0.001121,0.333333,1
+2161,"Fletcher, Samuel Craig",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.874789,0.887939,4049
+2165,"Flores, Francisco",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.497042,0.753005,1378
+2166,"Floridi, Luciano",,B-Arguments (22),"#97D8A3","#81C884",14,,,,10,3,13,0.001063,1,1
+2180,"Fontes Da Costa, Palmira",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.006111,0.882353,135
+2181,"Forber, Patrick",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,3,2,25,0.15617,0.805808,1332
+2186,"Forge, John",,A-Formal (4),"#B2DFDB","#53B6AC",9,,,,3,2,26,0.876919,0.755228,4045
+2191,"Forster, Malcolm R.",,C-Experiment (12),"#C5E2A5","#AED681",12,,,,4,2,9,0.015103,0.76092,331
+2220,"Franklin, Allan D.",,C-Experiment (12),"#C5E2A5","#AED681",20,,,,5,2,9,0.009729,0.623377,144
+2221,"Franklin, James",,A-Mathematical (15),"#53B6AC","#53B6AC",5,,,,3,2,15,0.039619,0.763218,332
+2222,"Franklin, L. R.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.192088,0.793036,2027
+2232,"Fraser, Doreen",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.974455,0.834362,5002
+2240,"Freedman, Karyn L.",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.088631,0.68502,1381
+2246,"French, Rohan",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.028562,0.752688,350
+2247,"French, Steven",,F-Explanation (16),"#F7CD7F","#F4B74C",25,,,,12,3,22,0.001785,0.3,3
+2249,"Fresco, Nir",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,2,2,13,0.016003,0.812808,330
+2263,"Fridland, Ellen",,E-Mind (11),"#FDF176","#FDF176",3,,,,3,2,13,0.004626,0.816993,125
+2266,"Friebe, Cord",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.731935,0.796041,2775
+2267,"Friederich, Simon",,G-Quantum (14),"#EF8864","#EF8864",6,,,,5,2,26,0.982733,0.817568,5082
+2272,"Friedman, Michael",,H-Philosophy (6),"#A1887F","#A1887F",14,,,,8,3,19,0.002146,0.75,27
+2281,"Frigg, Roman",,G-Particles (3),"#F3AA91","#EF8864",19,,,,11,3,26,0.102968,0.43083,109
+2284,"Frisch, Mathias",,G-Quantum (14),"#EF8864","#EF8864",14,,,,14,4,26,0.413882,0.696716,997
+2285,"Frise, Matthew",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.574799,0.886765,3712
+2290,"Frost-Arnold, Greg",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,4,2,22,0.005433,0.444444,20
+2291,"Frost-Arnold, Karen",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.416253,0.896037,1922
+2297,"Fuhrmann, André",,A-Truth (23),"#439788","#53B6AC",4,,,,2,1,12,0.045599,0.606061,900
+2299,"Fulda, Fermín C.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.196213,0.696637,2092
+2301,"Fuller, Steve",,H-Social (18),"#8D6E63","#A1887F",9,,,,3,2,19,0.08879,0.670396,1438
+2303,"Fumagalli, Roberto",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,13,0.021333,0.526132,453
+2306,"Futch, Michael J.",,F-Causation (19),"#FFDFAC","#F4B74C",3,,,,3,2,9,0.008572,0.777778,35
+2323,"Gaifman, Haim",,A-Formal (4),"#B2DFDB","#53B6AC",9,,,,3,2,15,0.016979,0.542857,57
+2325,"Galavotti, Maria Carla",,C-Probability (9),"#AED681","#AED681",7,,,,4,2,15,0.049712,0.993952,493
+2339,"Gandenberger, Gregory Stephen",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.013146,0.67029,185
+2345,"Gannett, Lisa",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,5,2,25,0.203118,0.815495,2263
+2351,"García-Carpintero, Manuel",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.02722,0.468599,485
+2369,"Garson, Justin",,E-Neurosciences (13),"#DCE875","#FDF176",6,,,,6,2,25,0.046551,0.459677,228
+2376,"Gattei, Stefano",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.052882,0.765292,538
+2379,"Gauker, Christopher",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,2,1,17,0.028428,0.754936,650
+2381,"Gaukroger, Stephen W.",,H-Philosophy (6),"#A1887F","#A1887F",6,,,,3,2,2,0.002259,0.642857,18
+2392,"Gebharter, Alexander",,F-Causation (19),"#FFDFAC","#F4B74C",8,,,,5,2,9,0.010013,0.738462,240
+2396,"Geirsson, Heimir",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,2,1,4,0.058312,0.503374,373
+2398,"Gelfert, Axel",,F-Explanation (16),"#F7CD7F","#F4B74C",6,,,,6,2,13,0.018708,0.460317,174
+2402,"Gemes, Ken",,C-Confirmation (20),"#DCEDC8","#AED681",10,,,,6,2,15,0.000295,0,0
+2403,"Gendler, Tamar Szabó",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,2,0.007262,0.166667,1
+2409,"Georgalis, Nicholas",,B-Arguments (22),"#97D8A3","#81C884",5,,,,4,2,17,0.028746,0.582011,220
+2416,"Gerken, Mikkel",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.605321,0.808911,4085
+2424,"Gert, Joshua",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,24,0.004562,0.654545,36
+2425,"Gervais, Raoul",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,3,2,13,0.022272,0.487805,420
+2435,"Ghijsen, Harmen",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.577919,0.856097,3742
+2438,"Ghirardi, Giancarlo",,G-Quantum (14),"#EF8864","#EF8864",7,,,,3,2,26,0.987658,0.810683,5130
+2445,"Gibb, Sophie C.",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.12178,0.734015,1722
+2449,"Giberman, Daniel",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.120901,0.794231,1652
+2457,"Giere, Ronald N.",,H-Social (18),"#8D6E63","#A1887F",24,,,,10,3,19,0.050697,0.678521,477
+2462,"Gijsbers, Victor",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,13,0.011512,0.715415,181
+2469,"Gildenhuys, Peter",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,5,2,25,0.213494,0.812074,2502
+2475,"Gillett, Carl",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.129748,0.724505,1904
+2477,"Gillies, Anthony S.",,A-Truth (23),"#439788","#53B6AC",3,,,,2,1,12,0.058458,0.452991,159
+2478,"Gillies, Donald A.",,C-Confirmation (20),"#DCEDC8","#AED681",11,,,,4,2,9,0.005959,0.828571,87
+2481,"Gimbel, Steven",,C-Confirmation (20),"#DCEDC8","#AED681",3,,,,3,2,15,0.003145,0.25,7
+2483,"Ginev, Dimitri",,H-Social (18),"#8D6E63","#A1887F",11,,,,4,2,19,0.07846,0.775758,1152
+2486,"Giordani, Alessandro",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.038146,0.738164,764
+2487,"Giovanelli, Marco",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.059688,0.622222,28
+2490,"Giraud, Thibaut",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.035896,0.70404,697
+2500,"Glanzberg, Michael",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.030562,0.569501,422
+2502,"Glas, Eduard",,H-Social (18),"#8D6E63","#A1887F",13,,,,6,2,12,0.003418,0.266667,4
+2504,"Glass, David H.",,C-Probability (9),"#AED681","#AED681",4,,,,4,2,15,0.080394,0.800752,1278
+2509,"Glennan, Stuart S.",,F-Causation (19),"#FFDFAC","#F4B74C",7,,,,6,2,13,0.013641,0.428571,39
+2513,"Glock, Hans-Johann",,A-Language (17),"#80CBC4","#53B6AC",3,,,,3,2,17,0.009472,0.368421,63
+2517,"Glymour, Bruce",,E-Evolution (5),"#FEFAC4","#FDF176",11,,,,10,3,25,0.164223,0.804918,1473
+2518,"Glymour, Clark",,A-Formal (4),"#B2DFDB","#53B6AC",35,,,,11,3,9,0.007991,0.562092,86
+2519,"Glynn, Luke",,F-Causation (19),"#FFDFAC","#F4B74C",5,,,,5,2,9,0.01272,0.615054,286
+2528,"Godfrey-Smith, Peter",,E-Evolution (5),"#FEFAC4","#FDF176",14,,,,9,3,25,0.217494,0.773562,2569
+2532,"Goeres, Ralf",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.003788,0.418182,23
+2540,"Goldberg, Sanford C.",,B-Knowledge (21),"#81C884","#81C884",7,,,,7,3,5,0.609975,0.787931,4139
+2568,"González, Wenceslao J.",,H-Social (18),"#8D6E63","#A1887F",3,,,,2,1,19,0.081661,0.71654,1226
+2582,"Goodwin, William Mark",,G-Particles (3),"#F3AA91","#EF8864",10,,,,10,3,13,0.005995,0.452381,95
+2587,"Gordon, Bruce L.",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.924963,0.78681,4462
+2611,"Gołosz, Jerzy",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.923956,0.858557,4510
+2617,"Graham, Peter J.",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.604884,0.823636,4077
+2629,"Grantham, Todd A.",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.219433,0.731373,2611
+2644,"Greaves, Hilary",,G-Quantum (14),"#EF8864","#EF8864",3,,,,2,1,26,0.974454,0.834028,5000
+2647,"Greco, John",,B-Knowledge (21),"#81C884","#81C884",3,,,,2,1,5,0.583666,0.892941,3820
+2661,"Greenwood, John D.",,E-Mind (11),"#FDF176","#FDF176",4,,,,3,2,13,0.0041,0.758333,91
+2671,"Greimann, Dirk",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,4,2,17,0.003624,0.666667,14
+2681,"Griesemer, James R.",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,3,2,25,0.216061,0.805063,2544
+2684,"Griffith, Aaron",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.123828,0.84375,1755
+2685,"Griffiths, Paul E.",,E-Evolution (5),"#FEFAC4","#FDF176",10,,,,6,2,25,0.219941,0.771672,2626
+2690,"Grimm, Stephen R.",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,5,0.040496,0.75,21
+2691,"Grinbaum, Alexei",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.833482,0.88151,3690
+2705,"Gross, Steven",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,3,2,17,0.027055,0.475379,251
+2712,"Grundmann, Thomas",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.583666,0.892941,3820
+2715,"Grush, Rick",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.011195,0.553333,166
+2721,"Grünbaum, Adolf",,G-Quantum (14),"#EF8864","#EF8864",30,,,,4,2,19,0.001088,0.333333,2
+2724,"Grüne-Yanoff, Till",,F-Explanation (16),"#F7CD7F","#F4B74C",8,,,,8,3,13,0.010016,0.573684,109
+2726,"Guala, Francesco",,D-Agent-decision (8),"#DCE875","#DCE875",5,,,,5,2,9,0.006547,0.308824,42
+2727,"Guarini, Marcello",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,4,2,13,0.013258,0.847826,234
+2730,"Guenin, Louis M.",,H-History (0),"#BCAAA4","#A1887F",3,,,,3,2,6,0,0,0
+2743,"Gundersen, Lars Bo",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.502376,0.934066,2805
+2756,"Gyenis, Zalán",,C-Probability (9),"#AED681","#AED681",5,,,,2,2,15,0.038688,0.664516,309
+2757,"Gähde, Ulrich",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,3,2,2,0.0005,1,1
+2758,"Gärdenfors, Peter",,A-Formal (4),"#B2DFDB","#53B6AC",15,,,,4,2,7,0,0,0
+2766,"Haack, Susan",,B-Knowledge (21),"#81C884","#81C884",7,,,,2,1,5,0.602756,0.852514,4052
+2768,"Haase, Michaela",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.001232,0.533333,8
+2771,"Hacker, Peter M. S.",,A-Language (17),"#80CBC4","#53B6AC",5,,,,2,1,12,0.004217,0.494505,45
+2772,"Hacking, Ian",,C-Probability (9),"#AED681","#AED681",18,,,,3,2,19,0.037199,0.49359,385
+2780,"Hagar, Amit",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.946338,0.763353,4745
+2790,"Haji, Ishtiyaque",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,3,2,24,0.028641,0.556989,259
+2795,"Halbach, Volker",,A-Truth (23),"#439788","#53B6AC",5,,,,3,2,12,0.035984,0.584567,553
+2806,"Hall, Ned",,B-Arguments (22),"#97D8A3","#81C884",4,,,,3,2,9,0.030064,0.333333,40
+2815,"Halonen, Ilpo",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,3,2,13,0.001682,1,6
+2816,"Halpern, Joseph Y.",,F-Causation (19),"#FFDFAC","#F4B74C",6,,,,4,2,9,0.008894,0.742754,205
+2817,"Halpin, John F.",,B-Arguments (22),"#97D8A3","#81C884",6,,,,3,2,15,0.003113,0.533333,8
+2818,"Halvorson, Hans",,G-Quantum (14),"#EF8864","#EF8864",9,,,,6,2,26,0.627473,0.831791,2067
+2836,"Hands, Douglas Wade",,H-Social (18),"#8D6E63","#A1887F",7,,,,4,2,19,0.045972,0.793561,419
+2842,"Hanks, Peter W.",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,17,0.011114,0.316667,38
+2844,"Hanna, Joseph F.",,C-Probability (9),"#AED681","#AED681",11,,,,2,1,22,0.010755,0.695238,146
+2846,"Hannon, Michael",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.608501,0.833737,4127
+2859,"Hansson, Sven Ove",,A-Formal (4),"#B2DFDB","#53B6AC",22,,,,16,4,12,0.007634,0.552381,58
+2860,"Hanzel, Igor",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,8,0,0,0
+2864,"Harbecke, Jens",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.028646,0.578947,110
+2867,"Hardcastle, Valerie Gray",,E-Neurosciences (13),"#DCE875","#FDF176",8,,,,3,2,13,0.023561,0.607937,383
+2879,"Harker, David",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,4,2,22,0.015459,0.621622,414
+2883,"Harms, William F.",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,25,0.031976,0.642105,122
+2887,"Harper, William L.",,D-Agent-decision (8),"#DCE875","#DCE875",15,,,,3,2,2,0.00186,0.8,12
+2905,"Harré, Rom",,F-Property (2),"#F4B74C","#F4B74C",12,,,,3,2,4,0.055308,0.886243,335
+2908,"Hartimo, Mirja Helena",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,3,2,12,0.011509,0.67734,275
+2915,"Hartmann, Stephan",,C-Probability (9),"#AED681","#AED681",12,,,,5,2,15,0.045586,0.600284,422
+2925,"Hasle, Per F. V.",,H-History (0),"#BCAAA4","#A1887F",4,,,,2,1,19,0.00839,0.675325,156
+2927,"Hatfield, Gary C.",,E-Perception (10),"#F9D849","#FDF176",11,,,,4,2,13,0.003568,0.703297,64
+2930,"Haufe, Chris",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,6,2,25,0.156316,0.844612,1348
+2931,"Haug, Matthew C.",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.116278,0.782898,1529
+2932,"Haukioja, Jussi",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.039677,0.526829,432
+2938,"Hausman, Daniel Murray",,F-Causation (19),"#FFDFAC","#F4B74C",19,,,,8,3,9,0.010988,0.746439,262
+2946,"Hawley, Katherine",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.59787,0.822099,3988
+2959,"Healey, Richard A.",,G-Quantum (14),"#EF8864","#EF8864",15,,,,9,3,26,0.98634,0.808786,5118
+2968,"Hedrich, Reiner",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,26,0.012155,0.5,3
+2972,"Heesen, Remco",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,3,2,24,0.007426,0.384615,35
+2976,"Heidelberger, Michael",,G-Particles (3),"#F3AA91","#EF8864",5,,,,3,2,13,0.00025,0,0
+2984,"Heilmann, Conrad",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,3,2,24,0.01382,0.633005,257
+2995,"Helgeson, Casey",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,5,2,25,0.089456,0.71021,473
+2998,"Hellman, Geoffrey",,A-Formal (4),"#B2DFDB","#53B6AC",18,,,,3,2,15,0.024453,0.657895,125
+3003,"Helzner, Jeffrey",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,4,2,12,0.009154,0.358333,43
+3006,"Hemmo, Meir",,G-Quantum (14),"#EF8864","#EF8864",10,,,,6,2,26,0.962768,0.814846,4885
+3011,"Henderson, Leah",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.02063,0.47619,10
+3019,"Hendry, Robin Findlay",,G-Particles (3),"#F3AA91","#EF8864",10,,,,9,3,13,0.003574,0.742857,78
+3025,"Henry, John",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.007977,0.735385,239
+3028,"Henschen, Tobias",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.001249,0.666667,2
+3029,"Hentschel, Klaus",,H-Social (18),"#8D6E63","#A1887F",6,,,,2,1,19,0.060782,0.677295,701
+3046,"Herzberg, Frederik",,A-Formal (4),"#B2DFDB","#53B6AC",5,,,,5,2,15,0.029066,0.632411,160
+3054,"Hetherington, Stephen",,B-Knowledge (21),"#81C884","#81C884",5,,,,5,2,5,0.613278,0.811687,4181
+3057,"Hey, Spencer Phillips",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,9,0.018975,0.539024,442
+3060,"Heylen, Jan",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.04377,0.632323,939
+3066,"Hicks, Daniel",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.087467,0.713262,1393
+3068,"Hiddleston, Eric",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.025221,0.51828,241
+3072,"Hild, Matthias",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.085816,0.656023,904
+3077,"Hill, Claire Ortiz",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.008927,0.74026,171
+3094,"Hindriks, Frank",,D-Agent-decision (8),"#DCE875","#DCE875",4,,,,4,2,24,0.000641,0.333333,1
+3099,"Hintikka, Jaakko",,B-Arguments (22),"#97D8A3","#81C884",53,,,,16,4,12,0.020467,0.414773,219
+3101,"Hinzen, Wolfram",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.027793,0.377011,164
+3107,"Hitchcock, Christopher",,F-Causation (19),"#FFDFAC","#F4B74C",15,,,,14,4,9,0.010923,0.685185,259
+3119,"Hochstein, Eric",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,4,2,13,0.018428,0.609848,322
+3128,"Hoefer, Carl",,G-Quantum (14),"#EF8864","#EF8864",7,,,,4,2,26,0.925867,0.726995,4519
+3136,"Hofer-Szabó, Gábor",,F-Causation (19),"#FFDFAC","#F4B74C",5,,,,3,2,9,0.017561,0.660079,167
+3141,"Hoffmann-Kolss, Vera",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.095542,0.740067,1099
+3144,"Hofmann, Frank",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.550913,0.847441,3394
+3153,"Hohwy, Jakob",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.039265,0.450575,196
+3170,"Holm, Sune",,E-Mind (11),"#FDF176","#FDF176",2,,,,2,1,13,0.009064,0.609524,128
+3171,"Holman, Bennett",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,2,1,9,0.015543,0.645833,341
+3181,"Holton, Gerald",,H-History (0),"#BCAAA4","#A1887F",3,,,,2,1,19,0.010825,0.68,204
+3192,"Hooker, Clifford A.",,G-Quantum (14),"#EF8864","#EF8864",17,,,,5,2,13,0.009521,0.6,72
+3193,"Hoover, Kevin D.",,D-Agent-decision (8),"#DCE875","#DCE875",5,,,,4,2,9,0.005415,0.505495,46
+3200,"Horgan, Terry",,C-Probability (9),"#AED681","#AED681",5,,,,4,2,15,0.086226,0.71761,1357
+3204,"Horowitz, Amir",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.120716,0.712906,1624
+3207,"Horsten, Leon",,A-Truth (23),"#439788","#53B6AC",7,,,,5,2,12,0.028923,0.4,396
+3220,"Houkes, Wybo",,E-Mind (11),"#FDF176","#FDF176",8,,,,5,2,13,0.004136,0.904762,95
+3230,"Howick, Jeremy",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.002796,0.619048,13
+3231,"Howson, Colin",,C-Probability (9),"#AED681","#AED681",43,,,,19,4,15,0.095449,0.605331,1635
+3234,"Hoyningen-Huene, Paul",,H-Social (18),"#8D6E63","#A1887F",10,,,,4,2,19,0.055764,0.624585,564
+3238,"Huber, Franz",,C-Probability (9),"#AED681","#AED681",10,,,,10,3,15,0.083648,0.693989,1270
+3244,"Hudson, Robert G.",,G-Particles (3),"#F3AA91","#EF8864",10,,,,7,3,22,0.000258,0,0
+3246,"Huemer, Michael",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.412435,0.669752,1809
+3251,"Huggett, Nick",,G-Quantum (14),"#EF8864","#EF8864",15,,,,9,3,26,0.975989,0.821458,5015
+3259,"Huisman, Leendert",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.088298,0.714904,1487
+3267,"Humberstone, I. Lloyd",,A-Truth (23),"#439788","#53B6AC",6,,,,3,2,12,0.040954,0.671837,823
+3271,"Humphreys, Paul W.",,F-Causation (19),"#FFDFAC","#F4B74C",18,,,,10,3,4,0.008779,0.416667,15
+3275,"Huneman, Philippe",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,6,2,25,0.201485,0.755297,2210
+3276,"Hung, Edwin Hin-Chung",,A-Language (17),"#80CBC4","#53B6AC",5,,,,2,1,2,0.001676,0.6,9
+3297,"Huttegger, Simon M.",,D-Agent-decision (8),"#DCE875","#DCE875",9,,,,6,3,24,0.018636,0.739919,367
+3307,"Hájek, Alan",,C-Probability (9),"#AED681","#AED681",9,,,,7,3,15,0.090356,0.665057,1515
+3315,"Hüttemann, Andreas",,F-Property (2),"#F4B74C","#F4B74C",5,,,,4,2,4,0.030166,0.618182,34
+3316,"Iacona, Andrea",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.029275,0.528205,412
+3323,"Ihde, Don",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.058188,0.723145,653
+3326,"Illari, Phyllis",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,3,2,13,0.017729,0.597849,278
+3329,"Imbert, Cyrille",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,2,2,13,0.019183,0.503556,354
+3331,"Incurvati, Luca",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.015845,0.538462,399
+3336,"Intemann, Kristen",,H-Social (18),"#8D6E63","#A1887F",6,,,,5,2,19,0.053726,0.671951,551
+3340,"Irvine, Elizabeth",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,13,0.01882,0.581105,326
+3344,"Irzik, Gürol",,F-Causation (19),"#FFDFAC","#F4B74C",10,,,,3,2,19,0.005868,0.802198,73
+3345,"Isaac, Alistair M. C.",,E-Perception (10),"#F9D849","#FDF176",5,,,,5,2,13,0.001225,0.6,6
+3347,"Ishida, Yoichi",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.213842,0.813048,2505
+3351,"Ismael, Jenann",,G-Quantum (14),"#EF8864","#EF8864",7,,,,7,3,26,0.509907,0.864662,1380
+3354,"Ivanova, Milena",,B-Scientific-theory (1),"#66BC6A","#81C884",7,,,,6,2,22,0.016349,0.722222,273
+3355,"Iwan, St.",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.012216,0.503448,219
+3359,"Jackman, Henry",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.022027,0.56006,373
+3366,"Jacobs, Struan",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.088118,0.704365,1420
+3369,"Jacobson, Stephen",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.603699,0.85546,4066
+3371,"Jacquette, Dale",,A-Truth (23),"#439788","#53B6AC",9,,,,3,2,12,0.029045,0.680952,429
+3376,"Jago, Mark",,A-Truth (23),"#439788","#53B6AC",5,,,,4,2,12,0.040686,0.626087,648
+3379,"Jakobsen, David",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.008404,0.656126,166
+3385,"Janiak, Andrew",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.008271,0.729345,256
+3393,"Jansson, Lina",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,4,2,4,0.001071,0,0
+3394,"Jantzen, Benjamin C.",,G-Quantum (14),"#EF8864","#EF8864",7,,,,6,2,26,0.051818,0.472222,17
+3398,"Jardine, Boris",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.010116,0.73913,187
+3400,"Jardine, Nick",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.046292,0.634278,470
+3406,"Jaworski, William",,E-Mind (11),"#FDF176","#FDF176",2,,,,2,1,4,0.006561,0.288889,13
+3410,"Jeffrey, Richard C.",,C-Probability (9),"#AED681","#AED681",21,,,,2,1,15,0.043338,0.923645,375
+3415,"Jenkins, C. S.",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,5,0.496989,0.742315,2777
+3416,"Jenkins, Lekelia D.",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.007459,0.80117,137
+3438,"Johansson, Ingvar",,C-Confirmation (20),"#DCEDC8","#AED681",4,,,,3,2,12,0.004488,0.533333,8
+3439,"John, Stephen",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,19,0.014572,0.392157,60
+3441,"Johnsen, Bredo",,C-Confirmation (20),"#DCEDC8","#AED681",2,,,,2,1,15,0.000127,0,0
+3443,"Johnson, Daniel M.",,B-Knowledge (21),"#81C884","#81C884",3,,,,2,1,5,0.458727,0.764362,2355
+3447,"Johnson, Kent",,C-Experiment (12),"#C5E2A5","#AED681",6,,,,6,2,10,0,0,0
+3452,"Johnston, Colin",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.005084,0.458333,55
+3466,"Jones, Nicholaos",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.017353,0.687831,260
+3471,"Jones, Todd",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,3,2,13,0.013361,0.700855,246
+3472,"Jones, Ward E.",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.383081,0.83871,1638
+3486,"Joyce, James M.",,D-Agent-decision (8),"#DCE875","#DCE875",4,,,,4,2,24,0.03084,0.561905,354
+3497,"Justus, James",,F-Explanation (16),"#F7CD7F","#F4B74C",7,,,,6,2,25,0.032952,0.510526,97
+3499,"Jäger, Christoph",,B-Knowledge (21),"#81C884","#81C884",4,,,,3,2,5,0.539946,0.896306,3276
+3511,"Kahle, Reinhard",,A-Truth (23),"#439788","#53B6AC",3,,,,2,2,12,0.016192,0.435897,153
+3522,"Kallestrup, Jesper",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.108374,0.488529,362
+3545,"Kaplan, David Michael",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,2,1,13,0.027177,0.469697,465
+3546,"Kaplan, Jonathan Michael",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,4,2,25,0.216367,0.80981,2559
+3550,"Kappel, Klemens",,B-Knowledge (21),"#81C884","#81C884",5,,,,3,2,5,0.579737,0.861588,3766
+3552,"Karaca, Koray",,G-Quantum (14),"#EF8864","#EF8864",4,,,,3,2,26,0.638003,0.863984,2147
+3553,"Karakostas, Vassilios",,G-Quantum (14),"#EF8864","#EF8864",6,,,,5,2,26,0.93937,0.870799,4664
+3567,"Kastner, Ruth E.",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.957203,0.836795,4835
+3578,"Katzav, Joel",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.018197,0.632258,294
+3592,"Keefe, Rosanna",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.029734,0.462121,244
+3593,"Keeley, Brian L.",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,25,0.061392,0.487988,325
+3610,"Kelly, Kevin T.",,C-Confirmation (20),"#DCEDC8","#AED681",13,,,,4,2,12,0.002915,0.2,3
+3613,"Kelp, Christoph",,B-Knowledge (21),"#81C884","#81C884",11,,,,9,3,5,0.608359,0.831919,4118
+3619,"Kemp, Stephen",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.081951,0.62212,1215
+3629,"Keren, Arnon",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.542881,0.861808,3299
+3634,"Kershaw, Michael",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.003087,1,36
+3642,"Ketland, Jeffrey",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.02241,0.549242,290
+3646,"Khalidi, Muhammad Ali",,F-Property (2),"#F4B74C","#F4B74C",6,,,,5,2,4,0.059212,0.844758,419
+3647,"Khalifa, Kareem",,F-Explanation (16),"#F7CD7F","#F4B74C",7,,,,6,2,13,0.015484,0.643678,280
+3650,"Kidd, Ian James",,H-Social (18),"#8D6E63","#A1887F",8,,,,7,3,19,0.09999,0.579289,1695
+3653,"Kieseppä, I. A.",,C-Experiment (12),"#C5E2A5","#AED681",6,,,,6,2,9,0.015173,0.677419,315
+3664,"Kim, Joongol",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.006261,0.879121,80
+3666,"Kim, Namjoong",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.08584,0.755156,1428
+3668,"Kim, Seahwa",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,13,0.000684,0.333333,1
+3669,"Kim, Sungsu",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.081019,0.811111,803
+3672,"Kincaid, Harold",,B-Arguments (22),"#97D8A3","#81C884",11,,,,3,2,19,0.028221,0.753247,174
+3684,"Kingma, Elselijn",,E-Mind (11),"#FDF176","#FDF176",2,,,,2,1,13,0.004506,0.794118,108
+3686,"Kinzel, Katherina",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.088448,0.619403,1411
+3689,"Kirk, Robert",,F-Property (2),"#F4B74C","#F4B74C",4,,,,2,1,4,0.128334,0.774741,1871
+3696,"Kissine, Mikhail",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.027452,0.788462,615
+3697,"Kistler, Max",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.039857,0.642857,243
+3700,"Kitcher, Philip",,B-Arguments (22),"#97D8A3","#81C884",15,,,,4,2,19,0.081091,0.670621,1187
+3714,"Klee, Robert L.",,C-Confirmation (20),"#DCEDC8","#AED681",5,,,,2,1,11,0,0,0
+3717,"Klein, Colin",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,4,2,13,0.013044,0.603077,196
+3722,"Klein, Ursula",,G-Particles (3),"#F3AA91","#EF8864",3,,,,3,2,13,0.003279,0.824176,75
+3726,"Kleinknecht, Reinhard",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,12,0.0038,0.190476,4
+3727,"Kleinschmidt, Shieva",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.138623,0.772805,1813
+3732,"Klev, Ansten",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.003875,0.348485,23
+3751,"Knowles, Jonathan",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,19,0.037891,0.78836,298
+3753,"Knox, Eleanor",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.964395,0.832824,4902
+3755,"Knuuttila, Tarja",,F-Explanation (16),"#F7CD7F","#F4B74C",10,,,,7,3,13,0.021175,0.498258,429
+3758,"Kochan, Jeff",,H-Social (18),"#8D6E63","#A1887F",5,,,,5,2,19,0.077713,0.699248,1116
+3760,"Kochiras, Hylarie",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.008225,0.712251,250
+3762,"Koertge, Noretta",,H-Social (18),"#8D6E63","#A1887F",13,,,,4,2,19,0.097483,0.645738,1697
+3775,"Kolman, Vojtěch",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.015184,0.551051,367
+3778,"Kompa, Nikola",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.400376,0.635439,1811
+3782,"Kopec, Matthew",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.193403,0.818466,2092
+3784,"Koperski, Jeffrey",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.616618,0.806841,2005
+3787,"Koppelberg, Dirk",,B-Knowledge (21),"#81C884","#81C884",8,,,,4,2,5,0.583371,0.852184,3805
+3788,"Koralus, Philipp",,E-Perception (10),"#F9D849","#FDF176",2,,,,2,1,13,0.004671,0.614379,94
+3796,"Kornmesser, Stephan",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,3,2,12,0.003282,0.484848,32
+3804,"Koscholke, Jakob",,C-Probability (9),"#AED681","#AED681",4,,,,3,2,15,0.086852,0.747056,1459
+3813,"Kosso, Peter",,G-Quantum (14),"#EF8864","#EF8864",10,,,,6,2,26,0.846505,0.835088,3808
+3822,"Kourany, Janet A.",,H-Social (18),"#8D6E63","#A1887F",9,,,,7,3,19,0.095961,0.663984,1650
+3827,"Kowalenko, Robert",,C-Confirmation (20),"#DCEDC8","#AED681",4,,,,4,2,9,0.000614,0,0
+3829,"Kožnjak, Boris",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.002296,0.333333,1
+3835,"Kraft, Tim",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.61194,0.758791,4143
+3839,"Krajewski, Władysław",,H-Philosophy (6),"#A1887F","#A1887F",5,,,,2,1,13,0.000381,0,0
+3843,"Krasner, Daniel Asher",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.041511,0.727575,657
+3846,"Krause, Décio",,A-Formal (4),"#B2DFDB","#53B6AC",7,,,,4,2,12,0.028715,0.439394,29
+3854,"Kremer, Philip",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.00538,0.4,22
+3857,"Kriegel, Uriah",,E-Perception (10),"#F9D849","#FDF176",3,,,,3,2,13,0.01513,0.507353,69
+3865,"Kroedel, Thomas",,F-Causation (19),"#FFDFAC","#F4B74C",3,,,,2,1,9,0.029662,0.537037,203
+3867,"Krohs, Ulrich",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,25,0.0136,0.538462,42
+3870,"Kronz, Frederick M.",,G-Quantum (14),"#EF8864","#EF8864",9,,,,4,2,26,0.943638,0.844205,4698
+3875,"Kruse, Michael",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,9,0.016957,0.627451,352
+3881,"Krämer, Stephan",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,12,0.010614,0.508333,61
+3889,"Kuhlmann, Meinard",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,2,2,13,0.008642,0.606061,40
+3895,"Kuipers, Theo A. F.",,A-Formal (4),"#B2DFDB","#53B6AC",23,,,,9,3,12,0.001844,0.142857,3
+3897,"Kukla, André",,B-Arguments (22),"#97D8A3","#81C884",16,,,,5,2,22,0.013297,0.532197,281
+3904,"Kulvicki, John",,E-Perception (10),"#F9D849","#FDF176",2,,,,2,1,13,0.005475,0.542857,114
+3910,"Kuorikoski, Jaakko",,F-Explanation (16),"#F7CD7F","#F4B74C",11,,,,7,3,13,0.019235,0.465465,310
+3915,"Kusch, Martin",,H-Social (18),"#8D6E63","#A1887F",12,,,,11,3,19,0.085738,0.704261,1124
+3917,"Kutach, Douglas N.",,G-Quantum (14),"#EF8864","#EF8864",4,,,,4,2,26,0.904755,0.856634,4326
+3921,"Kuukkanen, Jouni-Matti",,H-Social (18),"#8D6E63","#A1887F",7,,,,7,3,19,0.091739,0.662862,1510
+3925,"Kvasz, Ladislav",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,3,2,12,0.000178,0,0
+3929,"Kyburg, Henry E.",,C-Probability (9),"#AED681","#AED681",21,,,,3,2,15,0.079696,0.676503,1238
+3934,"Kölbel, Max",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.034254,0.788124,584
+3953,"Lacey, Hugh M.",,H-Social (18),"#8D6E63","#A1887F",5,,,,3,2,19,0.091337,0.64237,1507
+3959,"Ladyman, James",,B-Scientific-theory (1),"#66BC6A","#81C884",11,,,,9,3,22,0.012236,0.712251,250
+3978,"Lalor, Brendan",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.003198,0.333333,5
+3980,"Lam, Vincent",,G-Quantum (14),"#EF8864","#EF8864",9,,,,7,3,26,0.944704,0.8072,4664
+3997,"Landry, Elaine",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,4,2,12,0.006779,0.683824,93
+4008,"Lange, Marc",,C-Confirmation (20),"#DCEDC8","#AED681",16,,,,13,4,13,0.001374,0,0
+4013,"Langsam, Harold",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.509147,0.888889,2880
+4022,"Laraudogoitia, Jon Pérez",,G-Quantum (14),"#EF8864","#EF8864",22,,,,21,5,26,0.732407,0.935731,2810
+4024,"Larvor, Brendan",,H-Social (18),"#8D6E63","#A1887F",4,,,,3,2,19,0.066389,0.755782,817
+4042,"Laudisa, Federico",,G-Quantum (14),"#EF8864","#EF8864",5,,,,4,2,26,0.967318,0.853583,4932
+4048,"Lauth, Bernhard",,A-Formal (4),"#B2DFDB","#53B6AC",9,,,,2,1,12,0.024077,0.604396,55
+4069,"Le Morvan, Pierre",,B-Knowledge (21),"#81C884","#81C884",5,,,,5,2,5,0.59649,0.852448,3969
+4070,"Le Poidevin, Robin",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.047178,0.796923,259
+4084,"Lee, Byeong D.",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.432427,0.912643,2079
+4093,"Lee, Wang-Yen",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.013768,0.659274,327
+4094,"Leeds, Stephen",,G-Quantum (14),"#EF8864","#EF8864",13,,,,5,2,26,0.98422,0.778642,5104
+4100,"Lehmkuhl, Dennis",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.962792,0.845621,4886
+4102,"Lehoux, Daryn",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.005046,0.695238,73
+4103,"Lehrer, Keith",,B-Knowledge (21),"#81C884","#81C884",15,,,,2,1,5,0.583666,0.892941,3820
+4104,"Lehtinen, Aki",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,2,2,9,0.01046,0.462451,117
+4107,"Leiber, Theodor",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.017084,0.3,3
+4111,"Leitgeb, Hannes",,A-Formal (4),"#B2DFDB","#53B6AC",8,,,,7,3,12,0.006593,0.626374,57
+4119,"Leng, Mary",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.00806,0.547368,104
+4120,"Lenhard, Johannes",,C-Experiment (12),"#C5E2A5","#AED681",5,,,,5,2,9,0.010884,0.584416,135
+4133,"Leonelli, Sabina",,C-Experiment (12),"#C5E2A5","#AED681",8,,,,6,2,19,0.022413,0.470769,153
+4142,"Leuenberger, Stephan",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.124778,0.774802,1765
+4143,"Leuridan, Bert",,F-Explanation (16),"#F7CD7F","#F4B74C",6,,,,4,2,13,0.017664,0.352632,67
+4144,"Leuschner, Anna",,H-Social (18),"#8D6E63","#A1887F",4,,,,4,2,19,0.061025,0.659574,713
+4148,"Levi, Isaac",,C-Probability (9),"#AED681","#AED681",38,,,,14,4,15,0.039147,0.500711,352
+4151,"Levin, Michael",,B-Knowledge (21),"#81C884","#81C884",5,,,,2,1,5,0.406568,0.823157,1820
+4154,"Levine, Alex",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,14,0,0,0
+4159,"Levinstein, Benjamin Anders",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.086639,0.727087,1420
+4161,"Levy, Arnon",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,3,2,13,0.028723,0.475641,371
+4167,"Levy, Neil",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.55884,0.835165,3496
+4169,"Lewens, Tim",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,5,2,25,0.200603,0.849696,2233
+4176,"Lewis, Peter J.",,G-Quantum (14),"#EF8864","#EF8864",12,,,,12,3,26,0.921962,0.82326,4495
+4193,"Liggins, David",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,12,0.007717,0.35,42
+4216,"Linnebo, Øystein",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,12,0.007846,0.447619,47
+4217,"Linquist, Stefan",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.157132,0.87987,1355
+4221,"Lipton, Peter",,B-Arguments (22),"#97D8A3","#81C884",5,,,,3,2,5,0.231636,0.764103,596
+4223,"List, Christian",,D-Agent-decision (8),"#DCE875","#DCE875",8,,,,6,2,24,0.021833,0.625397,394
+4228,"Littlejohn, Clayton",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.615961,0.801447,4210
+4230,"Liu, Chuang",,G-Quantum (14),"#EF8864","#EF8864",18,,,,15,4,26,0.80061,0.778083,3401
+4233,"Livanios, Vassilios",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.169815,0.72381,1748
+4240,"Lloyd, Elisabeth A.",,E-Evolution (5),"#FEFAC4","#FDF176",15,,,,6,3,9,0.019769,0.528409,279
+4245,"Lockard, Matthew",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.595019,0.86886,3962
+4248,"Lockwood, Michael",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.960877,0.842506,4868
+4250,"Loeb, Iris",,A-Language (17),"#80CBC4","#53B6AC",4,,,,4,2,12,0.004065,0.43956,40
+4254,"Loeffler, Ronald",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.026056,0.756757,532
+4255,"Loettgers, Andrea",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,2,1,13,0.025561,0.426829,350
+4257,"Loew, Christian",,F-Causation (19),"#FFDFAC","#F4B74C",3,,,,3,2,9,0.012376,0.630542,256
+4258,"Loewer, Barry",,C-Probability (9),"#AED681","#AED681",13,,,,3,2,15,0.0081,0.444444,16
+4268,"Lombardi, Olimpia",,G-Quantum (14),"#EF8864","#EF8864",10,,,,4,2,26,0.780029,0.926277,3229
+4272,"Longino, Helen E.",,H-Social (18),"#8D6E63","#A1887F",11,,,,6,2,19,0.095433,0.655936,1630
+4280,"Lorenzano, Pablo",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,12,0.002972,0.5,3
+4283,"Lorini, Emiliano",,A-Truth (23),"#439788","#53B6AC",4,,,,2,2,12,0.011864,0.633987,97
+4291,"Love, Alan C.",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,4,2,25,0.085961,0.665718,468
+4292,"Lowe, E. J.",,F-Property (2),"#F4B74C","#F4B74C",4,,,,3,2,4,0.127228,0.768116,1855
+4307,"Ludwig, David",,H-Social (18),"#8D6E63","#A1887F",7,,,,7,3,19,0.040425,0.445652,123
+4326,"Lutz, Sebastian",,A-Formal (4),"#B2DFDB","#53B6AC",7,,,,7,3,12,0.001075,0.4,4
+4336,"Lyon, Aidan",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.080295,0.796992,1272
+4339,"Lyons, Timothy D.",,B-Scientific-theory (1),"#66BC6A","#81C884",8,,,,8,3,22,0.014214,0.657754,369
+4340,"Lyre, Holger",,G-Quantum (14),"#EF8864","#EF8864",7,,,,6,2,26,0.965583,0.790701,4915
+4343,"López De Sa, Dan",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.029243,0.763066,657
+4358,"MacBride, Fraser",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.010869,0.609687,214
+4363,"MacFarlane, John",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.036381,0.73403,632
+4371,"MacLeod, Christine",,H-History (0),"#BCAAA4","#A1887F",3,,,,2,1,19,0.008138,0.714286,165
+4372,"MacLeod, Miles",,H-Social (18),"#8D6E63","#A1887F",5,,,,2,2,19,0.016609,0.470588,72
+4375,"Macdonald, Cynthia",,E-Perception (10),"#F9D849","#FDF176",3,,,,2,1,13,0.014013,0.636364,42
+4378,"Machamer, Peter K.",,H-Classics (24),"#D8CCC7","#A1887F",8,,,,4,2,19,0.001181,0.166667,1
+4380,"Machery, Edouard",,E-Neurosciences (13),"#DCE875","#FDF176",10,,,,9,3,13,0.023859,0.625616,254
+4413,"Magnus, P. D.",,B-Arguments (22),"#97D8A3","#81C884",11,,,,10,3,22,0.015255,0.522282,293
+4416,"Maher, Patrick",,C-Probability (9),"#AED681","#AED681",20,,,,11,3,15,0.07943,0.828283,1230
+4427,"Maitzen, Stephen",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,12,0.04066,0.420635,159
+4433,"Makkreel, Rudolf A.",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.004302,0.492647,67
+4444,"Mallon, Ron",,E-Mind (11),"#FDF176","#FDF176",3,,,,2,1,13,0.015648,0.397436,31
+4456,"Manchak, John Byron",,G-Quantum (14),"#EF8864","#EF8864",10,,,,10,3,26,0.966854,0.852544,4926
+4476,"Manor, Ruth",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.024132,0.855462,509
+4479,"Mantel, Susanne",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.528218,0.90132,3142
+4483,"Marcellesi, Alexandre",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.013472,0.486772,184
+4486,"Marchionni, Caterina",,F-Explanation (16),"#F7CD7F","#F4B74C",6,,,,3,2,13,0.014371,0.57672,218
+4487,"Marconi, Diego",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,2,1,17,0.028755,0.713415,585
+4488,"Marcos, Alfredo",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.003201,0.580952,61
+4490,"Marcum, James A.",,H-Social (18),"#8D6E63","#A1887F",5,,,,5,2,19,0.019686,0.424242,28
+4496,"Mares, Edwin D.",,A-Truth (23),"#439788","#53B6AC",5,,,,5,2,12,0.042479,0.667634,920
+4507,"Marion, Mathieu",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,2,1,12,0.011453,0.544974,206
+4515,"Marquis, Jean-Pierre",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,12,0.010028,0.48,144
+4518,"Marras, Ausonio",,F-Property (2),"#F4B74C","#F4B74C",7,,,,5,2,4,0.130326,0.710478,1919
+4526,"Martens, Rhonda",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.00765,0.733333,220
+4540,"Martin, John Neil",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,17,0.002188,0.333333,7
+4552,"Martini, Carlo",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,3,2,9,0.011226,0.404412,55
+4559,"Martínez, Manolo",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,3,2,24,0.015023,0.859606,349
+4570,"Maslen, Cei",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.00777,0.875817,134
+4577,"Massimi, Michela",,H-Classics (24),"#D8CCC7","#A1887F",10,,,,10,3,2,0.004984,0.566176,77
+4578,"Massin, Olivier",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,4,0.003482,1,1
+4580,"Masterton, George",,C-Probability (9),"#AED681","#AED681",5,,,,4,2,15,0.073861,0.764877,1054
+4592,"Matthen, Mohan",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,4,2,25,0.210966,0.815851,2450
+4600,"Matthewson, John",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.173323,0.763636,1638
+4603,"Mattingly, James",,G-Quantum (14),"#EF8864","#EF8864",4,,,,4,2,26,0.963199,0.787967,4898
+4612,"Maurin, Anna-Sofia",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.128865,0.757746,1883
+4615,"Maxwell, Nicholas",,B-Scientific-theory (1),"#66BC6A","#81C884",14,,,,3,2,22,0.018031,0.528529,352
+4618,"Mayer, Anna-K.",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.024254,0.504202,300
+4623,"Mayo, Deborah G.",,C-Experiment (12),"#C5E2A5","#AED681",26,,,,11,3,9,0.017349,0.55761,392
+4625,"Mayo-Wilson, Conor",,C-Experiment (12),"#C5E2A5","#AED681",5,,,,4,2,9,0.010903,0.664032,168
+4632,"Mazzola, Claudio",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.75962,0.875789,3053
+4635,"McAllister, James W.",,C-Experiment (12),"#C5E2A5","#AED681",20,,,,15,4,9,0.01383,0.753846,245
+4636,"McArthur, Daniel James",,B-Scientific-theory (1),"#66BC6A","#81C884",5,,,,5,2,22,0.008876,0.805263,153
+4640,"McCain, Kevin",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.594247,0.884658,3950
+4659,"McCoy, C. D.",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.97103,0.844207,4969
+4664,"McDaniel, Kris",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.124036,0.816317,1751
+4673,"McEvoy, Mark",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.325416,0.937959,1149
+4682,"McGivern, Patrick",,F-Property (2),"#F4B74C","#F4B74C",3,,,,2,1,4,0.133298,0.686128,1657
+4691,"McHugh, Conor",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.614544,0.799353,4199
+4693,"McIntyre, Lee C.",,H-Social (18),"#8D6E63","#A1887F",5,,,,4,2,4,0.001579,0,0
+4697,"McKenna, Robin",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.494837,0.693565,2716
+4698,"McKenzie, Kerry",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.190164,0.592163,816
+4699,"McKeon, Matthew William",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.150083,0.461538,342
+4711,"McLaughlin, Brian P.",,F-Property (2),"#F4B74C","#F4B74C",4,,,,2,1,4,0.108008,0.731888,1384
+4715,"McLeish, Christina",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.02556,0.839339,559
+4719,"McMullin, Ernan",,B-Arguments (22),"#97D8A3","#81C884",10,,,,3,2,2,0.007077,0.822511,190
+4720,"McMyler, Benjamin",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.60376,0.837765,4064
+4724,"McOuat, Gordon R.",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.008891,0.821053,156
+4733,"Meacham, Christopher J. G.",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.099562,0.646185,1262
+4735,"Meadows, Phillip John",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.139854,0.778089,1669
+4739,"Meehl, Paul E.",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,2,1,9,0.01594,0.668561,353
+4748,"Meijs, Wouter",,C-Probability (9),"#AED681","#AED681",5,,,,3,2,15,0.093877,0.64829,1611
+4752,"Meirav, Ariel",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.12684,0.805092,1834
+4754,"Meixner, Uwe",,F-Property (2),"#F4B74C","#F4B74C",4,,,,2,1,4,0.057343,0.931034,378
+4763,"Melnyk, Andrew",,F-Property (2),"#F4B74C","#F4B74C",5,,,,3,2,4,0.127181,0.701294,1843
+4784,"Merlo, Giovanni",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.065727,0.589372,610
+4808,"Meyer, Ulrich",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.099771,0.892157,1183
+4813,"Meynell, Letitia",,E-Perception (10),"#F9D849","#FDF176",2,,,,2,1,16,0,0,0
+4814,"Michael, John",,E-Mind (11),"#FDF176","#FDF176",4,,,,2,2,13,0.004252,0.95,114
+4816,"Michaelian, Kourken",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.478484,0.974886,2562
+4823,"Mikkelson, Gregory M.",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,25,0.025663,0.405263,77
+4832,"Miller, Alexander",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,5,0.096592,0.581028,147
+4834,"Miller, Boaz",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.054481,0.428571,45
+4838,"Miller, David Marshall",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.007298,0.826087,209
+4845,"Miller, Kristie",,F-Property (2),"#F4B74C","#F4B74C",5,,,,5,2,4,0.127768,0.792413,1859
+4856,"Millstein, Roberta L.",,E-Evolution (5),"#FEFAC4","#FDF176",7,,,,7,3,25,0.212508,0.827173,2484
+4857,"Milne, Peter",,C-Probability (9),"#AED681","#AED681",12,,,,3,2,12,0.016405,0.313725,48
+4871,"Mirowski, Philip",,H-Social (18),"#8D6E63","#A1887F",4,,,,3,2,19,0.081753,0.643575,1217
+4875,"Miscevic, Nenad",,E-Perception (10),"#F9D849","#FDF176",2,,,,2,1,13,0.007285,0.5,33
+4884,"Mitchell, Sandra D.",,E-Evolution (5),"#FEFAC4","#FDF176",11,,,,6,2,25,0.037641,0.694737,132
+4886,"Mittelstaedt, Peter",,A-Truth (23),"#439788","#53B6AC",8,,,,3,2,26,0.7939,0.894413,3346
+4889,"Miyake, Teru",,H-Classics (24),"#D8CCC7","#A1887F",4,,,,4,2,2,0.001877,0.714286,15
+4891,"Mizrahi, Moti",,B-Scientific-theory (1),"#66BC6A","#81C884",8,,,,8,3,22,0.015232,0.672348,355
+4908,"Moltmann, Friederike",,A-Sentence (7),"#4BA69A","#53B6AC",5,,,,5,2,17,0.024132,0.855462,509
+4921,"Montgomery, Richard",,B-Arguments (22),"#97D8A3","#81C884",5,,,,2,1,13,0.005305,0.730769,57
+4923,"Montminy, Martin",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,4,2,17,0.048328,0.679704,643
+4924,"Monton, Bradley",,G-Quantum (14),"#EF8864","#EF8864",8,,,,6,2,26,0.976314,0.821949,5018
+4927,"Moon, Andrew",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.611138,0.805863,4151
+4932,"Moore, Dwayne",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.083738,0.748227,844
+4936,"Moore, Matthew E.",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.013002,0.636559,296
+4942,"Morange, Michel",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.213865,0.787658,2489
+4953,"Moretti, Luca",,B-Knowledge (21),"#81C884","#81C884",9,,,,7,3,5,0.315651,0.809201,1073
+4957,"Morgan, Mary S.",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,5,2,13,0.003964,0.428571,12
+4959,"Morganti, Matteo",,F-Property (2),"#F4B74C","#F4B74C",6,,,,5,2,4,0.162828,0.68784,1137
+4962,"Mormann, Thomas",,A-Formal (4),"#B2DFDB","#53B6AC",16,,,,7,3,12,0.000315,0,0
+4967,"Morris, Kevin",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.129972,0.726027,1908
+4968,"Morris, Stephen G.",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,4,2,25,0.157628,0.903247,1391
+4970,"Morrison, Joe",,B-Scientific-theory (1),"#66BC6A","#81C884",3,,,,3,2,22,0.01407,0.625668,351
+4971,"Morrison, Margaret",,G-Particles (3),"#F3AA91","#EF8864",21,,,,12,3,13,0.004775,0.575758,38
+4977,"Morton, Adam",,B-Arguments (22),"#97D8A3","#81C884",5,,,,4,2,5,0.029987,1,10
+4996,"Moulines, C. Ulises",,A-Formal (4),"#B2DFDB","#53B6AC",13,,,,4,2,12,0.003337,0.363636,24
+5003,"Mozersky, Joshua M.",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.021197,0.894624,416
+5013,"Muldoon, Ryan",,C-Experiment (12),"#C5E2A5","#AED681",5,,,,3,2,9,0.015048,0.677419,315
+5017,"Muller, Frederik A.",,G-Quantum (14),"#EF8864","#EF8864",17,,,,14,4,26,0.077481,0.717949,56
+5022,"Mumford, Stephen",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.12834,0.692336,1870
+5023,"Mumma, John",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.013211,0.640152,338
+5033,"Muntersbjorn, Madeline M.",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.010377,0.509804,78
+5036,"Munévar, Gonzalo",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.033036,0.472973,315
+5056,"Myrvold, Wayne C.",,G-Quantum (14),"#EF8864","#EF8864",13,,,,12,3,26,0.911445,0.854785,4403
+5057,"Mäki, Uskali",,H-Social (18),"#8D6E63","#A1887F",7,,,,6,2,19,0.026212,0.42735,150
+5061,"Mößner, Nicola",,H-Social (18),"#8D6E63","#A1887F",4,,,,4,2,19,0.086027,0.771751,1366
+5070,"Müller, Olaf",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,17,0.008808,0.432749,74
+5071,"Müller, Thomas",,A-Formal (4),"#B2DFDB","#53B6AC",11,,,,7,3,9,0.003168,0.619048,13
+5098,"Nanay, Bence",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,6,2,25,0.109609,0.86771,610
+5099,"Napoletano, Toby",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.027451,0.719512,590
+5109,"Nassar, Dalia",,H-Philosophy (6),"#A1887F","#A1887F",3,,,,2,1,19,0.003988,0.590476,62
+5112,"Nathan, Marco J.",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,5,2,25,0.195515,0.710526,2079
+5126,"Needham, Paul",,G-Particles (3),"#F3AA91","#EF8864",23,,,,21,5,13,0.004538,0.714286,75
+5141,"Nelson, Kevin",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.082148,0.774985,1326
+5148,"Nersessian, Nancy J.",,H-Social (18),"#8D6E63","#A1887F",12,,,,4,2,19,0.014937,0.475,57
+5149,"Neta, Ram",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.614193,0.813046,4188
+5157,"Newen, Albert",,E-Mind (11),"#FDF176","#FDF176",6,,,,4,2,13,0.003825,0.802198,73
+5162,"Newman, Mark P.",,F-Explanation (16),"#F7CD7F","#F4B74C",7,,,,7,3,13,0.00478,0.6,33
+5163,"Newman, William R.",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.007809,0.776667,233
+5167,"Ney, Alyssa",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.772268,0.820272,3140
+5170,"Nguyen, James",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.018178,0.592803,313
+5174,"Nichols, Shaun",,E-Mind (11),"#FDF176","#FDF176",4,,,,4,2,13,0.005574,0.67619,142
+5181,"Niebergall, Karl-Georg",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,3,2,12,0.014388,0.326613,162
+5193,"Niiniluoto, Ilkka",,C-Confirmation (20),"#DCEDC8","#AED681",32,,,,9,3,22,0.005436,0.848485,56
+5196,"Nimtz, Christian",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.03219,0.639614,662
+5198,"Nissan-Rozen, Ittay",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.080372,0.679245,972
+5206,"Nolan, Daniel",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.008992,0.649351,150
+5211,"Noordhof, Paul",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.124571,0.739959,1787
+5221,"Norris, Christopher",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,22,0.009285,0.424837,65
+5225,"North, Jill",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.916677,0.771028,4455
+5226,"Northcott, Robert",,C-Experiment (12),"#C5E2A5","#AED681",5,,,,5,2,9,0.007902,0.536842,102
+5231,"Nortmann, Ulrich",,A-Truth (23),"#439788","#53B6AC",4,,,,2,1,12,0.032226,0.577236,497
+5233,"Norton, John D.",,G-Quantum (14),"#EF8864","#EF8864",32,,,,18,4,26,0.314834,0.766532,568
+5236,"Nottelmann, Nikolaj",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.494289,0.880883,2714
+5239,"Novaes, Catarina Dutilh",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.042635,0.596633,886
+5265,"O'Connor, Cailin",,D-Agent-decision (8),"#DCE875","#DCE875",4,,,,4,2,24,0.014975,0.847291,344
+5272,"O'Malley, Maureen A.",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,2,1,25,0.220684,0.778137,2648
+5276,"O'Neill, John",,A-Mathematical (15),"#53B6AC","#53B6AC",5,,,,2,1,19,0.002579,1,3
+5287,"Oberdan, Thomas",,A-Language (17),"#80CBC4","#53B6AC",5,,,,3,2,19,0.001429,0.380952,8
+5289,"Oberheim, Eric",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.039573,0.678161,295
+5293,"Oddie, Graham",,A-Truth (23),"#439788","#53B6AC",8,,,,3,2,24,0.021929,0.592803,313
+5295,"Odenbaugh, Jay",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,6,2,25,0.217889,0.758448,2581
+5296,"Oderberg, David S.",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.115729,0.862295,1578
+5302,"Okasha, Samir",,E-Evolution (5),"#FEFAC4","#FDF176",18,,,,18,4,25,0.207347,0.855856,2375
+5320,"Olsson, Erik J.",,B-Knowledge (21),"#81C884","#81C884",15,,,,11,3,15,0.141243,0.428986,444
+5342,"Otsuka, Jun",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,2,2,25,0.204878,0.830991,2306
+5349,"Overton, James A.",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.020812,0.501502,334
+5359,"Padovani, Flavia",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.001796,0.75,21
+5363,"Pagin, Peter",,A-Language (17),"#80CBC4","#53B6AC",6,,,,5,2,17,0.010393,0.342105,65
+5366,"Pagès, Joan",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.11982,0.782284,1678
+5368,"Palermos, Spyridon",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.537404,0.932301,3250
+5370,"Palmer, David",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.018247,0.666667,374
+5373,"Palmieri, Paolo",,H-Classics (24),"#D8CCC7","#A1887F",5,,,,5,2,2,0.007159,0.887446,205
+5384,"Pantsar, Markus",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.010132,0.753333,226
+5385,"Panza, Marco",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,4,2,12,0.013908,0.608403,362
+5390,"Papineau, David",,F-Causation (19),"#FFDFAC","#F4B74C",14,,,,3,2,22,0.005386,0.577778,26
+5394,"Parent, T.",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.073054,0.595588,81
+5399,"Parikh, Rohit",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.031787,0.659698,568
+5400,"Paris, Jeffrey B.",,A-Formal (4),"#B2DFDB","#53B6AC",6,,,,3,2,15,0.019108,0.471861,109
+5402,"Park, Ilho",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.086816,0.747056,1459
+5404,"Park, Seungbae",,B-Scientific-theory (1),"#66BC6A","#81C884",3,,,,3,2,22,0.013858,0.727823,361
+5406,"Park, Woosuk",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.002795,0.214286,6
+5408,"Parker, Daniel",,G-Quantum (14),"#EF8864","#EF8864",4,,,,4,2,26,0.257149,0.736185,413
+5409,"Parker, Matthew W.",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.00274,0.428571,12
+5410,"Parker, Wendy S.",,C-Experiment (12),"#C5E2A5","#AED681",8,,,,8,3,9,0.017276,0.623123,415
+5423,"Paseau, Alexander",,A-Mathematical (15),"#53B6AC","#53B6AC",5,,,,5,2,12,0.011936,0.565217,143
+5431,"Paternotte, Cédric",,B-Knowledge (21),"#81C884","#81C884",5,,,,4,2,5,0.112018,0.626812,173
+5437,"Patterson, Douglas Eden",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.005903,0.43956,40
+5440,"Patton, Lydia",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,3,2,22,0.004476,0.690909,38
+5446,"Pauly, Marc",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,2,12,0.009397,0.464052,71
+5451,"Peacock, Kent A.",,G-Quantum (14),"#EF8864","#EF8864",3,,,,2,1,26,0.972135,0.801158,4980
+5454,"Pearce, Trevor",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.214888,0.820837,2529
+5455,"Pearl, Judea",,F-Causation (19),"#FFDFAC","#F4B74C",3,,,,2,1,9,0.012058,0.619355,288
+5459,"Pechenkin, A. A.",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.221806,0.913043,252
+5463,"Pedersen, Nikolaj Jang Lee Linding",,B-Knowledge (21),"#81C884","#81C884",8,,,,5,2,5,0.555095,0.783574,3425
+5466,"Peels, Rik",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.60126,0.831993,4036
+5469,"Peijnenburg, Jeanne",,C-Probability (9),"#AED681","#AED681",12,,,,7,3,15,0.064534,0.653153,435
+5472,"Pelczar, Michael W.",,A-Sentence (7),"#4BA69A","#53B6AC",5,,,,5,2,17,0.03457,0.74359,551
+5474,"Pelling, Charlie",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.425388,0.870939,1984
+5476,"Pence, Charles H.",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,3,2,25,0.208271,0.841404,2398
+5482,"Pennock, Robert T.",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,19,0.016033,0.549451,50
+5494,"Peressini, Anthony",,A-Mathematical (15),"#53B6AC","#53B6AC",5,,,,4,2,22,0.000319,0,0
+5496,"Perini, Laura",,E-Perception (10),"#F9D849","#FDF176",4,,,,4,2,13,0.000652,1,1
+5501,"Pernu, Tuomas K.",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.021674,0.505682,267
+5505,"Perrine, Timothy",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.592437,0.771881,3898
+5510,"Persson, Johannes",,F-Causation (19),"#FFDFAC","#F4B74C",6,,,,5,2,9,0.010049,0.553333,166
+5511,"Peschard, Isabelle F.",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,9,0.014632,0.363218,158
+5513,"Pessoa, Osvaldo",,G-Quantum (14),"#EF8864","#EF8864",3,,,,2,1,26,0.734647,0.897785,2837
+5525,"Peterson, Martin",,D-Agent-decision (8),"#DCE875","#DCE875",8,,,,6,2,24,0.025093,0.558653,481
+5534,"Pettit, Philip",,D-Agent-decision (8),"#DCE875","#DCE875",6,,,,3,2,24,0.01681,0.643145,319
+5535,"Pexton, Mark",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,4,2,13,0.019769,0.567568,378
+5539,"Pfeifer, Jessica",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.105062,0.893393,595
+5553,"Piccinini, Gualtiero",,E-Neurosciences (13),"#DCE875","#FDF176",14,,,,11,3,13,0.019951,0.685714,432
+5554,"Pickering, Andrew",,H-Social (18),"#8D6E63","#A1887F",6,,,,2,1,19,0.008924,0.563636,31
+5557,"Pietarinen, Ahti-Veikko",,H-Philosophy (6),"#A1887F","#A1887F",4,,,,3,2,19,0.001116,0.3,3
+5562,"Pietsch, Wolfgang",,G-Particles (3),"#F3AA91","#EF8864",4,,,,4,2,13,0.002998,0.428571,12
+5570,"Pincock, Christopher",,F-Explanation (16),"#F7CD7F","#F4B74C",10,,,,10,3,13,0.01652,0.55615,312
+5572,"Pineda, David",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.128829,0.717656,1886
+5578,"Pinto De Oliveira, J. C.",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.093771,0.677749,1590
+5593,"Pitts, J. Brian",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.637278,0.862374,2143
+5597,"Placek, Tomasz",,F-Causation (19),"#FFDFAC","#F4B74C",8,,,,5,2,9,0.004392,0.690909,38
+5615,"Plutynski, Anya",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,4,2,25,0.179998,0.774802,1765
+5621,"Poggiolesi, Francesca",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.041316,0.689412,879
+5627,"Polger, Thomas W.",,E-Neurosciences (13),"#DCE875","#FDF176",5,,,,5,2,13,0.020888,0.450216,104
+5635,"Pollard, Stephen",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.010457,0.753623,208
+5636,"Pollock, John L.",,C-Probability (9),"#AED681","#AED681",11,,,,4,2,15,0.079071,0.665457,1100
+5651,"Portides, Demetris P.",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.009425,0.563158,107
+5660,"Potochnik, Angela",,F-Explanation (16),"#F7CD7F","#F4B74C",11,,,,10,3,13,0.036019,0.412698,260
+5664,"Pourciau, Bruce",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.005717,0.79085,121
+5667,"Powell, Russell",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.213237,0.829504,2491
+5674,"Prawitz, Dag",,A-Truth (23),"#439788","#53B6AC",6,,,,2,1,12,0.044929,0.552005,881
+5676,"Predelli, Stefano",,A-Sentence (7),"#4BA69A","#53B6AC",6,,,,6,2,17,0.029016,0.740864,669
+5679,"Press, Joel Kenton",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,18,0,0,0
+5680,"Preston, Beth",,E-Mind (11),"#FDF176","#FDF176",3,,,,2,1,13,0.004602,0.875,119
+5681,"Preston, John",,H-Social (18),"#8D6E63","#A1887F",6,,,,5,2,19,0.068392,0.690196,880
+5687,"Price, Huw",,B-Arguments (22),"#97D8A3","#81C884",11,,,,3,2,26,0.233963,0.752688,350
+5691,"Priest, Graham",,A-Truth (23),"#439788","#53B6AC",7,,,,2,1,12,0.017052,0.731579,139
+5694,"Prior, A. N.",,A-Truth (23),"#439788","#53B6AC",6,,,,4,2,19,0.001624,0.5,5
+5695,"Pritchard, Duncan",,B-Knowledge (21),"#81C884","#81C884",7,,,,7,3,5,0.617092,0.788088,4221
+5697,"Proietti, Carlo",,A-Truth (23),"#439788","#53B6AC",3,,,,2,1,12,0.040728,0.718537,845
+5702,"Proust, Joëlle",,E-Mind (11),"#FDF176","#FDF176",3,,,,3,2,13,0.004896,0.79085,121
+5705,"Pruss, Alexander R.",,C-Probability (9),"#AED681","#AED681",4,,,,4,2,15,0.043711,0.573257,403
+5710,"Psillos, Stathis",,B-Scientific-theory (1),"#66BC6A","#81C884",20,,,,18,4,22,0.014962,0.575075,383
+5718,"Puntel, Lorenz B.",,A-Language (17),"#80CBC4","#53B6AC",4,,,,4,2,12,0.003282,0.495238,52
+5722,"Pust, Joel",,C-Probability (9),"#AED681","#AED681",5,,,,5,2,15,0.089008,0.727679,1467
+5751,"Raatikainen, Panu",,A-Mathematical (15),"#53B6AC","#53B6AC",6,,,,6,2,12,0.007409,0.691176,94
+5753,"Rabinowicz, Wlodek",,D-Agent-decision (8),"#DCE875","#DCE875",11,,,,6,2,15,0.037062,0.573975,322
+5756,"Radder, Hans",,H-Social (18),"#8D6E63","#A1887F",10,,,,5,2,19,0.097057,0.620511,1676
+5758,"Radick, Gregory",,H-History (0),"#BCAAA4","#A1887F",4,,,,3,2,19,0.010953,0.710526,135
+5763,"Raerinne, Jani",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.167547,0.873446,1546
+5765,"Raftopoulos, Athanassios",,E-Perception (10),"#F9D849","#FDF176",9,,,,8,3,13,0.004298,0.7,84
+5779,"Rami, Dolf",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,4,2,17,0.027226,0.797436,622
+5780,"Rampling, Jennifer M.",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.006111,0.882353,135
+5783,"Ramsey, Grant",,E-Evolution (5),"#FEFAC4","#FDF176",7,,,,5,2,25,0.211628,0.843472,2468
+5784,"Ramsey, Jeffry L.",,G-Particles (3),"#F3AA91","#EF8864",10,,,,4,2,13,0.00641,0.407115,103
+5808,"Rast, Erich H.",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.006662,0.818182,45
+5809,"Ratcliffe, Matthew",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,13,0.001576,0.5,3
+5810,"Rathjen, Michael",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.013801,0.375,186
+5832,"Recanati, François",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.022667,0.90121,447
+5835,"Reck, Erich H.",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,2,2,12,0.014487,0.545045,363
+5841,"Reed, Baron",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.530886,0.839615,3141
+5860,"Reisch, George A.",,H-Social (18),"#8D6E63","#A1887F",4,,,,3,2,19,0.089425,0.676923,1452
+5863,"Reiss, Julian",,F-Causation (19),"#FFDFAC","#F4B74C",5,,,,5,2,9,0.00569,0.666667,70
+5869,"Renne, Bryan",,A-Truth (23),"#439788","#53B6AC",3,,,,2,2,12,0.038644,0.68617,774
+5874,"Renzi, Barbara Gabriella",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.207937,0.779221,2340
+5876,"Rescher, Nicholas",,B-Arguments (22),"#97D8A3","#81C884",18,,,,2,1,19,0.008781,0.818713,140
+5877,"Rescorla, Michael",,E-Neurosciences (13),"#DCE875","#FDF176",6,,,,6,2,13,0.012986,0.766667,230
+5879,"Resnik, David B.",,H-Social (18),"#8D6E63","#A1887F",12,,,,4,2,19,0.088991,0.665268,1427
+5884,"Reutlinger, Alexander",,F-Explanation (16),"#F7CD7F","#F4B74C",10,,,,9,3,13,0.012971,0.56917,144
+5886,"Reydon, Thomas A. C.",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,5,2,25,0.197601,0.837637,2141
+5892,"Rheinberger, Hans-Jörg",,E-Evolution (5),"#FEFAC4","#FDF176",6,,,,4,2,19,0.040569,0.706349,267
+5897,"Rice, Collin C.",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,3,2,13,0.025602,0.51495,465
+5904,"Richards, Richard A.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.207073,0.855135,2373
+5907,"Richardson, Alan W.",,H-Social (18),"#8D6E63","#A1887F",8,,,,5,2,19,0.087082,0.690972,1393
+5908,"Richardson, Robert C.",,E-Evolution (5),"#FEFAC4","#FDF176",20,,,,7,3,25,0.219826,0.751004,2618
+5909,"Richardson, Sarah S.",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.08735,0.737176,1394
+5918,"Ridder, Jeroen De",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.558705,0.919018,3518
+5921,"Rieger, Adam",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.041289,0.567843,724
+5929,"Riggs, Wayne",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.607855,0.832121,4119
+5943,"Risjord, Mark",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,2,1,13,0.001069,0.333333,1
+5945,"Risse, Mathias",,D-Agent-decision (8),"#DCE875","#DCE875",4,,,,4,2,24,0.025137,0.598718,467
+5948,"Ritchie, Jack",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,22,0.001978,0.7,7
+5952,"Rizza, Davide",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,4,2,12,0.004442,0.5,33
+5957,"Roberts, Bryan W.",,G-Quantum (14),"#EF8864","#EF8864",7,,,,7,3,26,0.970065,0.842168,4957
+5961,"Roberts, John T.",,C-Probability (9),"#AED681","#AED681",10,,,,9,3,15,0.021542,0.348485,23
+5966,"Roberts, Pendaran",,E-Perception (10),"#F9D849","#FDF176",4,,,,3,2,13,0.007889,0.530303,35
+5984,"Roche, Michael",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.115925,0.774985,1326
+5985,"Roche, William A.",,C-Probability (9),"#AED681","#AED681",8,,,,6,2,15,0.10537,0.600156,1534
+5986,"Rochefort-Maranda, Guillaume",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,4,2,9,0.015742,0.691532,343
+5995,"Rodych, Victor",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,4,2,12,0.006805,0.509804,78
+6007,"Rohrlich, Fritz",,G-Particles (3),"#F3AA91","#EF8864",7,,,,3,2,13,0.010749,0.45,54
+6011,"Rohwer, Yasha",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,3,2,13,0.017522,0.560606,37
+6015,"Rolin, Kristina",,H-Social (18),"#8D6E63","#A1887F",4,,,,4,2,19,0.077928,0.818578,1128
+6021,"Romeijn, Jan-Willem",,C-Experiment (12),"#C5E2A5","#AED681",4,,,,4,2,15,0.028779,0.492611,200
+6022,"Romero, Felipe",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,9,0.022296,0.454123,391
+6024,"Romeyn, Jan-Willem",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.413628,0.836263,904
+6030,"Root, Michael",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.16315,0.868498,1486
+6044,"Rosenberg, Alexander",,E-Evolution (5),"#FEFAC4","#FDF176",30,,,,10,3,25,0.214011,0.814346,2509
+6052,"Rosenkranz, Sven",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.324459,0.514286,1242
+6057,"Roskies, Adina L.",,E-Neurosciences (13),"#DCE875","#FDF176",3,,,,3,2,13,0.016755,0.752688,350
+6070,"Rota, Gian-Carlo",,A-Mathematical (15),"#53B6AC","#53B6AC",4,,,,2,1,12,0.011579,0.660099,268
+6072,"Roth, Paul A.",,H-Social (18),"#8D6E63","#A1887F",7,,,,4,2,19,0.075256,0.696296,1034
+6077,"Rott, Hans",,A-Truth (23),"#439788","#53B6AC",12,,,,7,3,12,0.056504,0.566066,377
+6080,"Rouse, Joseph",,H-Social (18),"#8D6E63","#A1887F",9,,,,2,1,19,0.078898,0.625137,1144
+6081,"Roush, Sherrilyn",,C-Confirmation (20),"#DCEDC8","#AED681",2,,,,2,1,15,0.018242,0.397059,54
+6083,"Rovane, Carol",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.011815,0.7,210
+6086,"Rowbottom, Darrell Patrick",,B-Arguments (22),"#97D8A3","#81C884",17,,,,16,4,19,0.009757,0.309091,17
+6090,"Roy, Olivier",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,3,2,24,0.015624,0.5,203
+6103,"Rueger, Alexander",,G-Particles (3),"#F3AA91","#EF8864",14,,,,11,3,4,0.009231,0.388889,14
+6104,"Ruetsche, Laura",,G-Quantum (14),"#EF8864","#EF8864",10,,,,8,3,26,0.987086,0.809576,5123
+6106,"Ruhmkorff, Samuel",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.013875,0.620968,308
+6117,"Rupert, Robert D.",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.013395,0.575758,38
+6118,"Ruphy, Stéphanie",,F-Property (2),"#F4B74C","#F4B74C",5,,,,5,2,4,0.019552,0.409524,43
+6133,"Russo, Federica",,F-Causation (19),"#FFDFAC","#F4B74C",6,,,,4,2,9,0.008694,0.458874,106
+6147,"Rynasiewicz, Robert A.",,G-Quantum (14),"#EF8864","#EF8864",13,,,,4,2,26,0.929449,0.852875,4568
+6150,"Räz, Tim",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,13,0.022522,0.525641,410
+6151,"Rédei, Miklós",,G-Quantum (14),"#EF8864","#EF8864",13,,,,4,2,12,0.033609,0.373626,34
+6159,"Saatsi, Juha T.",,B-Scientific-theory (1),"#66BC6A","#81C884",13,,,,11,3,22,0.008856,0.5,138
+6184,"Salmon, Wesley C.",,C-Confirmation (20),"#DCEDC8","#AED681",26,,,,3,2,9,0.000965,0.333333,1
+6190,"Sample, Matthew S.",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.095993,0.615023,1572
+6192,"Samuels, Richard",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.018893,0.615126,366
+6195,"San Pedro, Iñaki",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,9,0.069918,0.45,54
+6205,"Sandu, Gabriel",,A-Truth (23),"#439788","#53B6AC",8,,,,3,2,12,0.040446,0.663529,846
+6208,"Sankey, Howard",,B-Knowledge (21),"#81C884","#81C884",14,,,,12,3,5,0.168844,0.57754,324
+6210,"Sansom, Roger",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.189641,0.715661,1933
+6211,"Sant'Anna, Adonai S.",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,2,1,12,0.081551,0.411067,104
+6223,"Sargent, Rose-Mary",,H-History (0),"#BCAAA4","#A1887F",6,,,,3,2,19,0.01391,0.555556,210
+6225,"Sarkar, Husain",,B-Scientific-theory (1),"#66BC6A","#81C884",9,,,,4,2,19,0.021606,0.563158,107
+6226,"Sarkar, Sahotra",,E-Evolution (5),"#FEFAC4","#FDF176",14,,,,8,3,25,0.179775,0.952406,1801
+6229,"Sartenaer, Olivier",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.149104,0.709731,1714
+6236,"Saunders, Simon W.",,G-Quantum (14),"#EF8864","#EF8864",14,,,,10,3,26,0.980614,0.799147,5057
+6239,"Savitt, Steven F.",,G-Quantum (14),"#EF8864","#EF8864",6,,,,2,1,26,0.84072,0.834043,3724
+6244,"Scarantino, Andrea",,E-Mind (11),"#FDF176","#FDF176",5,,,,5,2,13,0.00579,0.623377,144
+6245,"Scerri, Eric R.",,G-Particles (3),"#F3AA91","#EF8864",15,,,,11,3,13,0.00503,0.595588,81
+6250,"Schaffer, Jonathan",,C-Probability (9),"#AED681","#AED681",5,,,,5,2,9,0.002624,0.266667,4
+6252,"Schaffner, Kenneth F.",,E-Evolution (5),"#FEFAC4","#FDF176",15,,,,5,2,25,0.104364,0.627197,678
+6256,"Schantz, Richard",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.021049,0.7,7
+6269,"Scheines, Richard",,F-Causation (19),"#FFDFAC","#F4B74C",7,,,,2,2,9,0.010977,0.581281,236
+6274,"Schickore, Jutta",,H-Social (18),"#8D6E63","#A1887F",7,,,,7,3,19,0.044124,0.636508,401
+6275,"Schiemer, Georg",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,2,2,12,0.007657,0.442857,93
+6282,"Schindler, Samuel",,C-Experiment (12),"#C5E2A5","#AED681",10,,,,10,3,22,0.004047,0.21978,20
+6285,"Schippers, Michael",,C-Probability (9),"#AED681","#AED681",7,,,,6,2,15,0.086878,0.722222,1456
+6286,"Schirn, Matthias",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,2,1,12,0.014399,0.594958,354
+6297,"Schliesser, Eric",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.008024,0.753846,245
+6298,"Schlimm, Dirk",,A-Mathematical (15),"#53B6AC","#53B6AC",6,,,,6,2,12,0.012027,0.684729,278
+6303,"Schmaltz, Tad M.",,H-Classics (24),"#D8CCC7","#A1887F",2,,,,2,1,2,0.008271,0.729345,256
+6304,"Schmaus, Warren",,H-Social (18),"#8D6E63","#A1887F",8,,,,5,2,19,0.058187,0.889339,659
+6327,"Schnieder, Benjamin",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.030244,0.602102,401
+6329,"Schoch, Daniel",,A-Formal (4),"#B2DFDB","#53B6AC",4,,,,2,1,12,0.009257,0.411255,95
+6334,"Scholl, Raphael",,C-Experiment (12),"#C5E2A5","#AED681",3,,,,3,2,9,0.017681,0.511471,379
+6346,"Schrenk, Markus",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.009946,0.666667,10
+6348,"Schroeder, S. Andrew",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,24,0.002531,0,0
+6350,"Schroeder-Heister, Peter",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.039566,0.610106,809
+6354,"Schröder, Jürgen",,F-Property (2),"#F4B74C","#F4B74C",7,,,,6,2,4,0.114309,0.795699,1554
+6356,"Schubert, Stefan",,C-Probability (9),"#AED681","#AED681",4,,,,4,2,15,0.095833,0.728249,1289
+6359,"Schulte, Oliver",,C-Confirmation (20),"#DCEDC8","#AED681",7,,,,5,2,15,0.000286,0,0
+6360,"Schulte, Peter",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,24,0.009721,0.309091,17
+6361,"Schulz, Armin W.",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,25,0.020915,0.454545,25
+6362,"Schulz, Katrin",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.031381,0.84127,530
+6363,"Schulz, Moritz",,C-Probability (9),"#AED681","#AED681",4,,,,3,2,15,0.043214,0.631048,313
+6366,"Schummer, Joachim",,G-Particles (3),"#F3AA91","#EF8864",2,,,,2,1,13,0.002274,0.711111,32
+6368,"Schupbach, Jonah N.",,C-Probability (9),"#AED681","#AED681",8,,,,7,3,15,0.032177,0.58867,239
+6369,"Schurz, Gerhard",,C-Confirmation (20),"#DCEDC8","#AED681",35,,,,23,5,12,0.00016,0,0
+6376,"Schwartz, Peter H.",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.124558,0.825121,854
+6377,"Schwartz, Robert",,B-Arguments (22),"#97D8A3","#81C884",7,,,,2,1,17,0.002177,0.333333,5
+6382,"Schwarz, Wolfgang",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.073772,0.740929,1021
+6389,"Schwitzgebel, Eric",,E-Perception (10),"#F9D849","#FDF176",3,,,,3,2,13,0.00314,0.74359,58
+6396,"Sciortino, Luca",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.075455,0.810709,1075
+6407,"Seager, William E.",,B-Arguments (22),"#97D8A3","#81C884",9,,,,2,1,26,0.891498,0.849697,4206
+6413,"Sebens, Charles T.",,G-Quantum (14),"#EF8864","#EF8864",2,,,,2,1,26,0.951155,0.826237,4774
+6421,"Segerberg, Krister",,A-Truth (23),"#439788","#53B6AC",4,,,,3,2,12,0.032195,0.667828,575
+6425,"Seidel, Markus",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.539497,0.865009,3236
+6442,"Sensat, Julius",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.017269,0.8125,403
+6443,"Sent, Esther-Mirjam",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,19,0.000257,0,0
+6445,"Sequoiah-Grayson, Sebastian",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.026973,0.791667,418
+6451,"Sesardić, Neven",,B-Arguments (22),"#97D8A3","#81C884",5,,,,3,2,25,0.022381,0.727273,40
+6462,"Shabel, Lisa",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.008882,0.549784,127
+6464,"Shackel, Nicholas",,B-Knowledge (21),"#81C884","#81C884",5,,,,5,2,5,0.503458,0.678632,2779
+6470,"Shagrir, Oron",,E-Neurosciences (13),"#DCE875","#FDF176",8,,,,8,3,13,0.018286,0.632576,334
+6471,"Shah, Mehul",,C-Confirmation (20),"#DCEDC8","#AED681",2,,,,2,1,19,0.001898,1,1
+6482,"Shapiro, Lawrence A.",,E-Neurosciences (13),"#DCE875","#FDF176",10,,,,7,3,13,0.021109,0.482051,376
+6484,"Shapiro, Stewart",,A-Mathematical (15),"#53B6AC","#53B6AC",7,,,,5,2,12,0.016331,0.4375,217
+6500,"Shea, Nicholas",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,4,2,25,0.176042,0.691097,1669
+6501,"Shech, Elay",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,13,0.015124,0.618234,217
+6506,"Shelley, Cameron",,H-History (0),"#BCAAA4","#A1887F",3,,,,3,2,20,0,0,0
+6509,"Shenker, Orly R.",,G-Quantum (14),"#EF8864","#EF8864",7,,,,4,2,26,0.901441,0.77646,4321
+6514,"Sher, Gila",,A-Truth (23),"#439788","#53B6AC",5,,,,5,2,12,0.0026,0.333333,5
+6516,"Sherry, David M.",,A-Mathematical (15),"#53B6AC","#53B6AC",10,,,,5,2,12,0.011514,0.625287,272
+6523,"Shimony, Abner",,G-Quantum (14),"#EF8864","#EF8864",12,,,,2,1,26,0.723603,0.940533,2752
+6524,"Shin, Sun-Joo",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.011569,0.667488,271
+6530,"Shoemaker, Sydney",,B-Knowledge (21),"#81C884","#81C884",3,,,,2,1,5,0.353815,0.901948,1389
+6531,"Shogenji, Tomoji",,C-Probability (9),"#AED681","#AED681",10,,,,9,3,15,0.073104,0.70296,665
+6536,"Shrader-Frechette, Kristin S.",,C-Experiment (12),"#C5E2A5","#AED681",18,,,,5,2,9,0.021452,0.478405,432
+6549,"Siebel, Mark",,C-Probability (9),"#AED681","#AED681",4,,,,3,2,15,0.05498,0.759756,623
+6554,"Siegel, Harvey",,H-Social (18),"#8D6E63","#A1887F",15,,,,2,1,19,0.064018,0.537879,284
+6557,"Sieroka, Norman",,H-Philosophy (6),"#A1887F","#A1887F",2,,,,2,1,19,0.002558,0.688889,31
+6562,"Sillari, Giacomo",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,2,2,24,0.019415,0.704545,372
+6564,"Silva, Jairo José Da",,A-Mathematical (15),"#53B6AC","#53B6AC",3,,,,3,2,12,0.012851,0.665323,330
+6566,"Silverberg, Arnold",,C-Confirmation (20),"#DCEDC8","#AED681",2,,,,2,1,9,0.000125,0,0
+6583,"Simons, Peter",,A-Language (17),"#80CBC4","#53B6AC",3,,,,3,2,12,0.002189,0.285714,8
+6595,"Sintonen, Matti",,F-Explanation (16),"#F7CD7F","#F4B74C",7,,,,2,1,13,0.009047,0.666667,114
+6604,"Skiles, Alexander",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.12326,0.764812,1691
+6607,"Skipper, Robert A.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.220559,0.758176,2643
+6611,"Sklar, Lawrence",,G-Quantum (14),"#EF8864","#EF8864",16,,,,4,2,26,0.886336,0.761905,4160
+6616,"Skow, Bradford",,G-Quantum (14),"#EF8864","#EF8864",6,,,,6,2,26,0.710673,0.757983,2706
+6618,"Skyrms, Brian",,C-Probability (9),"#AED681","#AED681",28,,,,12,3,24,0.022779,0.632576,334
+6619,"Slater, Barry Hartley",,A-Truth (23),"#439788","#53B6AC",5,,,,4,2,12,0.038481,0.609929,688
+6621,"Slater, Matthew H.",,B-Arguments (22),"#97D8A3","#81C884",6,,,,5,2,25,0.020191,0.4,18
+6629,"Slowik, Edward",,H-Classics (24),"#D8CCC7","#A1887F",7,,,,7,3,26,0.066121,0.644444,29
+6638,"Smead, Rory",,D-Agent-decision (8),"#DCE875","#DCE875",5,,,,4,2,24,0.012632,0.931159,257
+6641,"Smets, Sonja",,A-Truth (23),"#439788","#53B6AC",6,,,,3,2,12,0.028793,0.884135,496
+6642,"Smid, Jeroen",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.079922,0.839424,758
+6652,"Smith, Deborah C.",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.087343,0.719858,812
+6661,"Smith, John Maynard",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.19577,0.797565,2096
+6669,"Smith, Martin",,C-Probability (9),"#AED681","#AED681",4,,,,4,2,15,0.100321,0.646329,1303
+6672,"Smith, Nicholas J. J.",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,9,0.00045,0,0
+6674,"Smith, Quentin",,A-Sentence (7),"#4BA69A","#53B6AC",10,,,,2,1,17,0.012003,0.895425,137
+6676,"Smith, Ryan",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.00227,0.5,3
+6677,"Smith, Sheldon R.",,H-Classics (24),"#D8CCC7","#A1887F",8,,,,7,3,2,0.015229,0.65,195
+6682,"Smithson, Robert",,B-Scientific-theory (1),"#66BC6A","#81C884",2,,,,2,1,22,0.001659,0,0
+6692,"Snyder, Laura J.",,H-Classics (24),"#D8CCC7","#A1887F",6,,,,5,2,2,0.003475,0.872727,48
+6694,"Sobel, Jordan Howard",,D-Agent-decision (8),"#DCE875","#DCE875",17,,,,6,2,24,0.022691,0.68254,430
+6695,"Sober, Elliott R.",,E-Evolution (5),"#FEFAC4","#FDF176",48,,,,15,4,25,0.017474,0.423077,33
+6698,"Soler, Léna",,H-Social (18),"#8D6E63","#A1887F",3,,,,2,1,19,0.061692,0.709091,702
+6701,"Solomon, Miriam",,H-Social (18),"#8D6E63","#A1887F",6,,,,2,1,19,0.020596,0.536232,148
+6709,"Sorensen, Roy A.",,D-Agent-decision (8),"#DCE875","#DCE875",9,,,,3,2,13,0.000554,1,1
+6720,"Spanos, Aris",,C-Experiment (12),"#C5E2A5","#AED681",9,,,,7,3,9,0.018419,0.591093,438
+6722,"Spaulding, Shannon",,E-Mind (11),"#FDF176","#FDF176",2,,,,2,1,13,0.007104,0.581028,147
+6734,"Spencer, Joshua",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.127518,0.788576,1850
+6736,"Spencer, Quayshawn",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.15209,0.963801,1278
+6748,"Spohn, Wolfgang",,B-Arguments (22),"#97D8A3","#81C884",12,,,,8,3,15,0.003448,1,6
+6751,"Sprenger, Jan",,C-Experiment (12),"#C5E2A5","#AED681",16,,,,12,3,9,0.021672,0.433155,243
+6752,"Sprevak, Mark D.",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,4,2,13,0.017486,0.636364,357
+6754,"Spurrett, David",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,4,0.003876,0.214286,6
+6765,"Staffel, Julia",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.09012,0.716393,1311
+6768,"Staley, Kent W.",,C-Experiment (12),"#C5E2A5","#AED681",7,,,,7,3,9,0.017215,0.62012,413
+6774,"Stan, Marius",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.008072,0.756923,246
+6777,"Stanford, P. Kyle",,B-Arguments (22),"#97D8A3","#81C884",9,,,,8,3,22,0.003372,0.857143,24
+6780,"Stapleford, Scott",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.580246,0.805627,3751
+6782,"Staples, Mark",,H-Social (18),"#8D6E63","#A1887F",2,,,,2,1,19,0.011303,0.822222,37
+6786,"Statham, Georgie",,F-Causation (19),"#FFDFAC","#F4B74C",2,,,,2,1,13,0.000741,0,0
+6790,"Steel, Daniel",,C-Confirmation (20),"#DCEDC8","#AED681",20,,,,19,4,15,0.00537,0.244444,11
+6793,"Steele, Katie Siobhan",,C-Experiment (12),"#C5E2A5","#AED681",7,,,,5,2,9,0.015156,0.533333,112
+6796,"Stefánsson, H. Orri",,C-Probability (9),"#AED681","#AED681",5,,,,4,2,15,0.033091,0.672365,236
+6797,"Stegenga, Jacob",,C-Experiment (12),"#C5E2A5","#AED681",5,,,,4,2,9,0.020332,0.581197,204
+6798,"Steglich-Petersen, Asbjørn",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.183314,0.899015,365
+6799,"Stegmann, Ulrich E.",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,5,2,25,0.149043,0.685311,1213
+6821,"Stemmer, Nathan",,C-Confirmation (20),"#DCEDC8","#AED681",11,,,,3,2,21,0,0,0
+6822,"Stemwedel, Janet D.",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.007894,0.588235,90
+6827,"Stephan, Achim",,E-Mind (11),"#FDF176","#FDF176",5,,,,4,2,4,0.011722,0.378788,25
+6830,"Stephens, Christopher",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.173943,0.918033,1680
+6833,"Sterelny, Kim",,E-Evolution (5),"#FEFAC4","#FDF176",13,,,,10,3,25,0.210353,0.850877,2425
+6844,"Sterrett, Susan G.",,H-History (0),"#BCAAA4","#A1887F",3,,,,3,2,19,0.000121,0,0
+6846,"Steup, Matthias",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.530231,0.883473,3154
+6861,"Stjernfelt, Frederik",,H-Philosophy (6),"#A1887F","#A1887F",4,,,,3,2,19,0.002064,0.688889,31
+6867,"Stojanovic, Isidora",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.028088,0.786585,645
+6888,"Stotz, Karola",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,3,2,25,0.20174,0.776491,2213
+6900,"Strevens, Michael",,C-Probability (9),"#AED681","#AED681",12,,,,11,3,15,0.050548,0.634146,520
+6901,"Strien, Marij",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,26,0.049666,0.638889,23
+6908,"Stroud, Barry",,E-Perception (10),"#F9D849","#FDF176",4,,,,3,2,19,0.000469,0,0
+6922,"Stump, David J.",,H-Social (18),"#8D6E63","#A1887F",6,,,,2,1,22,0.013206,0.771429,162
+6928,"Sturm, Thomas",,H-Social (18),"#8D6E63","#A1887F",5,,,,4,2,19,0.052095,0.676923,528
+6931,"Stöltzner, Michael",,G-Quantum (14),"#EF8864","#EF8864",7,,,,7,3,26,0.463251,0.81761,1170
+6939,"Sugden, Robert",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.0058,0.505495,46
+6944,"Sullivan, Jacqueline Anne",,E-Neurosciences (13),"#DCE875","#FDF176",5,,,,5,2,13,0.019663,0.660317,416
+6948,"Sundholm, Göran",,A-Truth (23),"#439788","#53B6AC",3,,,,2,1,12,0.040022,0.636863,812
+6950,"Suppe, Frederick",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,2,1,22,0.001387,0.4,4
+6951,"Suppes, Patrick",,A-Formal (4),"#B2DFDB","#53B6AC",41,,,,6,2,12,0.006415,0.838095,88
+6958,"Suárez, Mauricio",,G-Quantum (14),"#EF8864","#EF8864",13,,,,12,3,26,0.648021,0.859937,2198
+6960,"Svetlova, Ekaterina",,F-Explanation (16),"#F7CD7F","#F4B74C",2,,,,2,1,13,0.004397,0.444444,20
+6971,"Swinburne, Richard G.",,C-Confirmation (20),"#DCEDC8","#AED681",7,,,,2,1,15,0.00052,0.166667,1
+6992,"Tabery, James G.",,E-Evolution (5),"#FEFAC4","#FDF176",2,,,,2,1,25,0.181793,0.681887,1792
+7001,"Tal, Eran",,C-Experiment (12),"#C5E2A5","#AED681",5,,,,4,2,9,0.016049,0.714015,377
+7005,"Tallant, Jonathan",,F-Property (2),"#F4B74C","#F4B74C",11,,,,11,3,4,0.107369,0.796128,1316
+7008,"Tambolo, Luca",,B-Scientific-theory (1),"#66BC6A","#81C884",4,,,,3,2,22,0.020601,0.481781,357
+7011,"Tamminga, Allard",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.001,1,1
+7017,"Tang, Hao",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.001243,0.4,6
+7024,"Tanona, Scott",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.696275,0.863978,2528
+7029,"Tappenden, Paul",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.768742,0.915957,3117
+7045,"Taylor, Kenneth A.",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,3,2,17,0.027457,0.82726,613
+7052,"Teh, Nicholas J.",,G-Quantum (14),"#EF8864","#EF8864",5,,,,4,2,26,0.966854,0.852544,4926
+7053,"Teira, David",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.012345,0.77,231
+7055,"Teller, Paul",,G-Quantum (14),"#EF8864","#EF8864",21,,,,9,3,13,0.089547,0.427536,118
+7060,"Tennant, Neil",,A-Truth (23),"#439788","#53B6AC",7,,,,4,2,12,0.025939,0.8,348
+7062,"Tentori, Katya",,C-Probability (9),"#AED681","#AED681",6,,,,3,2,15,0.063693,0.725177,818
+7067,"Tersman, Folke",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,17,0.05423,0.379447,96
+7072,"Textor, Mark",,A-Sentence (7),"#4BA69A","#53B6AC",4,,,,4,2,17,0.028275,0.765854,628
+7073,"Thagard, Paul R.",,E-Neurosciences (13),"#DCE875","#FDF176",25,,,,6,2,13,0.016094,0.729345,256
+7075,"Thalos, Mariam",,B-Arguments (22),"#97D8A3","#81C884",8,,,,7,3,26,0.041655,0.761905,16
+7079,"Theurer, Kari L.",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.018174,0.534091,282
+7096,"Thompson, J. Robert",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.022012,0.886022,412
+7107,"Thomson-Jones, Martin",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,4,2,13,0.015947,0.590726,293
+7108,"Thorn, Paul D.",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.086751,0.741935,1449
+7118,"Thébault, Karim P. Y.",,G-Quantum (14),"#EF8864","#EF8864",6,,,,4,2,26,0.987067,0.809893,5125
+7122,"Tiehen, Justin T.",,F-Property (2),"#F4B74C","#F4B74C",5,,,,5,2,4,0.108884,0.711726,1390
+7129,"Tiles, Mary",,H-Social (18),"#8D6E63","#A1887F",8,,,,4,2,19,0.09075,0.63214,1483
+7130,"Tilley, John J.",,D-Agent-decision (8),"#DCE875","#DCE875",3,,,,2,1,24,0.016929,0.469697,31
+7135,"Timpson, Christopher G.",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.941772,0.858608,4688
+7143,"Toader, Iulian D.",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.000116,0,0
+7156,"Tondl, Ladislav",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.074427,0.72327,1035
+7157,"Toon, Adam",,F-Explanation (16),"#F7CD7F","#F4B74C",5,,,,5,2,13,0.018811,0.584084,389
+7170,"Tosh, Nick",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,19,0.029043,0.761905,176
+7197,"Trout, J. D.",,C-Experiment (12),"#C5E2A5","#AED681",11,,,,5,2,9,0.005286,0.254545,14
+7208,"Tsou, Jonathan Y.",,A-Language (17),"#80CBC4","#53B6AC",3,,,,3,2,23,0,0,0
+7211,"Tsuji, Marcelo",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.014065,0.306818,162
+7212,"Tuana, Nancy",,H-Social (18),"#8D6E63","#A1887F",4,,,,2,1,19,0.079546,0.68498,1172
+7214,"Tucker, Aviezer",,H-Social (18),"#8D6E63","#A1887F",3,,,,2,1,25,0.0533,0.842105,160
+7215,"Tucker, Chris",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.529977,0.762149,3121
+7216,"Tugby, Matthew",,F-Property (2),"#F4B74C","#F4B74C",3,,,,3,2,4,0.129864,0.724886,1905
+7218,"Tulenheimo, Tero",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.091126,0.727941,99
+7220,"Tulodziecki, Dana",,B-Scientific-theory (1),"#66BC6A","#81C884",5,,,,5,2,22,0.008992,0.666667,154
+7222,"Tumulka, Roderich",,G-Quantum (14),"#EF8864","#EF8864",5,,,,2,2,26,0.967543,0.83826,4934
+7228,"Turner, Derek D.",,B-Scientific-theory (1),"#66BC6A","#81C884",5,,,,5,2,22,0.009403,0.490196,75
+7230,"Turner, Stephen",,H-Social (18),"#8D6E63","#A1887F",3,,,,3,2,19,0.01327,0.628205,49
+7233,"Turri, John",,B-Knowledge (21),"#81C884","#81C884",9,,,,8,3,5,0.578612,0.875877,3747
+7249,"Uckelman, Sara L.",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.004291,0.6,9
+7250,"Uebel, Thomas E.",,A-Language (17),"#80CBC4","#53B6AC",18,,,,14,4,19,0.008633,0.464286,13
+7251,"Uffink, Jos",,F-Causation (19),"#FFDFAC","#F4B74C",3,,,,2,1,9,0.00978,0.2,2
+7267,"Urbaniak, Rafal",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.033007,0.526024,475
+7278,"Vaesen, Krist",,B-Knowledge (21),"#81C884","#81C884",5,,,,4,2,5,0.539305,0.940046,3277
+7279,"Vahid, Hamid",,B-Knowledge (21),"#81C884","#81C884",5,,,,4,2,5,0.612311,0.826337,4173
+7284,"Valente, Giovanni",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.974372,0.804537,5001
+7285,"Valente, Mario Bacelar",,G-Quantum (14),"#EF8864","#EF8864",3,,,,3,2,26,0.879808,0.830505,4111
+7286,"Vallentyne, Peter",,F-Property (2),"#F4B74C","#F4B74C",5,,,,3,2,4,0.079472,0.941026,734
+7292,"Van Bendegem, Jean Paul",,A-Mathematical (15),"#53B6AC","#53B6AC",6,,,,3,2,12,0.023108,0.443697,264
+7293,"Van Benthem, Johan F. A. K.",,A-Truth (23),"#439788","#53B6AC",10,,,,5,2,12,0.036285,0.767442,726
+7295,"Van Brakel, Jaap",,G-Particles (3),"#F3AA91","#EF8864",11,,,,3,2,4,0.011261,0.348485,23
+7309,"Van Der Schaar, Maria",,A-Sentence (7),"#4BA69A","#53B6AC",3,,,,3,2,17,0.061582,0.555556,95
+7314,"Van Ditmarsch, Hans P.",,A-Truth (23),"#439788","#53B6AC",9,,,,6,2,12,0.031072,0.795796,530
+7316,"Van Dyck, Maarten",,H-Classics (24),"#D8CCC7","#A1887F",4,,,,4,2,2,0.007528,0.804348,222
+7317,"Van Eck, Dingmar",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,2,2,13,0.021678,0.493927,366
+7321,"Van Fraassen, Bas C.",,G-Quantum (14),"#EF8864","#EF8864",32,,,,11,3,26,0.169102,0.688312,159
+7349,"Van Riel, Raphael",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.054653,0.87931,357
+7363,"Vanderburgh, William L.",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.001716,0.666667,10
+7364,"Vanderschraaf, Peter",,D-Agent-decision (8),"#DCE875","#DCE875",7,,,,5,2,24,0.016813,0.808468,401
+7371,"Varga, Somogy",,E-Mind (11),"#FDF176","#FDF176",3,,,,3,2,13,0.005509,0.657895,125
+7383,"Velasco, Joel D.",,E-Evolution (5),"#FEFAC4","#FDF176",3,,,,3,2,25,0.216367,0.80981,2559
+7384,"Velázquez-Quesada, Fernando Raymundo",,A-Truth (23),"#439788","#53B6AC",3,,,,2,1,12,0.036788,0.77907,737
+7391,"Verhaegh, Sander",,A-Language (17),"#80CBC4","#53B6AC",2,,,,2,1,12,0.002883,0.530303,35
+7393,"Vermaas, Pieter E.",,E-Mind (11),"#FDF176","#FDF176",7,,,,4,2,13,0.004554,0.860294,117
+7403,"Vezér, Martin A.",,C-Experiment (12),"#C5E2A5","#AED681",2,,,,2,1,9,0.017182,0.639683,403
+7406,"Vicente, Agustín",,F-Property (2),"#F4B74C","#F4B74C",5,,,,5,2,4,0.107278,0.671131,1353
+7407,"Vickers, John M.",,C-Probability (9),"#AED681","#AED681",6,,,,2,1,15,0.045527,0.637427,109
+7408,"Vickers, Peter",,B-Scientific-theory (1),"#66BC6A","#81C884",10,,,,8,3,22,0.008604,0.593074,137
+7434,"Volpe, Giorgio",,B-Knowledge (21),"#81C884","#81C884",3,,,,2,1,5,0.612944,0.80994,4172
+7435,"Voltolini, Alberto",,A-Sentence (7),"#4BA69A","#53B6AC",2,,,,2,1,17,0.024678,0.904202,538
+7445,"Von Plato, Jan",,C-Probability (9),"#AED681","#AED681",10,,,,2,1,12,0.016951,0.536232,148
+7453,"Vorms, Marion",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,4,2,25,0.09683,0.603594,571
+7458,"Votsis, Ioannis",,B-Scientific-theory (1),"#66BC6A","#81C884",12,,,,9,3,22,0.015202,0.630159,397
+7460,"Vranas, Peter B. M.",,B-Arguments (22),"#97D8A3","#81C884",4,,,,4,2,12,0.008552,0.422222,19
+7472,"Wagner, Carl G.",,C-Probability (9),"#AED681","#AED681",13,,,,9,3,15,0.090423,0.6526,1531
+7473,"Wagner, Elliott O.",,D-Agent-decision (8),"#DCE875","#DCE875",5,,,,5,2,24,0.014975,0.847291,344
+7476,"Wagner, Roy",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,12,0.010566,0.813333,244
+7498,"Wallace, David",,G-Quantum (14),"#EF8864","#EF8864",7,,,,5,2,26,0.992843,0.751412,5187
+7512,"Walsh, Denis M.",,E-Evolution (5),"#FEFAC4","#FDF176",9,,,,9,3,25,0.215089,0.802532,2536
+7520,"Walter, Sven",,B-Arguments (22),"#97D8A3","#81C884",3,,,,3,2,13,0.003882,0.288889,13
+7522,"Walton, Douglas N.",,B-Arguments (22),"#97D8A3","#81C884",10,,,,6,2,12,0.006998,0.755556,34
+7527,"Wang, Linton",,B-Knowledge (21),"#81C884","#81C884",4,,,,3,2,5,0.509457,0.921519,2912
+7532,"Wansing, Heinrich",,A-Truth (23),"#439788","#53B6AC",5,,,,5,2,12,0.035459,0.765389,659
+7543,"Warren, Jared",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,12,0.007667,0.484848,32
+7547,"Waskan, Jonathan",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,2,1,13,0.005878,0.551282,43
+7556,"Waters, C. Kenneth",,E-Evolution (5),"#FEFAC4","#FDF176",8,,,,3,2,25,0.217218,0.754922,2569
+7557,"Watkins, Eric",,H-Classics (24),"#D8CCC7","#A1887F",3,,,,3,2,2,0.00463,0.761905,80
+7567,"Wayne, Andrew",,F-Explanation (16),"#F7CD7F","#F4B74C",6,,,,5,2,26,0.179178,0.5,248
+7569,"Weatherall, James Owen",,G-Quantum (14),"#EF8864","#EF8864",7,,,,7,3,26,0.956964,0.867925,4830
+7571,"Weatherson, Brian",,C-Probability (9),"#AED681","#AED681",2,,,,2,1,15,0.01016,0.355556,16
+7572,"Weaver, Christopher Gregory",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,27,0,0,0
+7578,"Weber, Erik",,F-Explanation (16),"#F7CD7F","#F4B74C",10,,,,6,3,13,0.016918,0.649194,322
+7581,"Weber, Marcel",,E-Evolution (5),"#FEFAC4","#FDF176",10,,,,10,3,25,0.182375,0.755694,1825
+7584,"Webster, William Robert",,E-Perception (10),"#F9D849","#FDF176",4,,,,4,2,13,0.003811,0.72381,76
+7590,"Wedgwood, Ralph",,D-Agent-decision (8),"#DCE875","#DCE875",2,,,,2,1,24,0.120881,0.470588,264
+7593,"Wehmeier, Kai Frederick",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,3,2,12,0.014968,0.388506,169
+7607,"Weinert, Friedel",,G-Particles (3),"#F3AA91","#EF8864",9,,,,3,2,26,0.094263,0.4329,100
+7616,"Weinstein, Steven",,G-Quantum (14),"#EF8864","#EF8864",6,,,,6,2,26,0.989195,0.798478,5143
+7617,"Weintraub, Ruth",,C-Probability (9),"#AED681","#AED681",9,,,,5,2,15,0.0627,0.535385,174
+7618,"Weirich, Paul",,D-Agent-decision (8),"#DCE875","#DCE875",10,,,,4,2,24,0.021663,0.693694,462
+7619,"Weisberg, Jonathan",,C-Probability (9),"#AED681","#AED681",4,,,,4,2,15,0.091763,0.664179,1513
+7621,"Weisberg, Michael",,F-Explanation (16),"#F7CD7F","#F4B74C",12,,,,9,3,13,0.018433,0.495021,348
+7622,"Weiskopf, Daniel Aaron",,E-Neurosciences (13),"#DCE875","#FDF176",9,,,,9,3,13,0.022463,0.552602,499
+7624,"Weiss, Bernhard",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.04171,0.484694,570
+7633,"Welch, John R.",,D-Agent-decision (8),"#DCE875","#DCE875",5,,,,4,2,15,0.041955,0.557143,351
+7635,"Welch, Philip D.",,A-Formal (4),"#B2DFDB","#53B6AC",3,,,,3,2,12,0.004492,0.363636,20
+7636,"Welding, Steen Olaf",,B-Knowledge (21),"#81C884","#81C884",3,,,,2,1,5,0.596561,0.853952,3976
+7647,"Wenmackers, Sylvia",,C-Probability (9),"#AED681","#AED681",5,,,,2,2,15,0.078779,0.781169,1203
+7650,"Werndl, Charlotte",,G-Quantum (14),"#EF8864","#EF8864",11,,,,8,3,26,0.12929,0.718954,110
+7652,"Werning, Markus",,E-Neurosciences (13),"#DCE875","#FDF176",4,,,,4,2,13,0.002062,1,6
+7661,"Westerhoff, Jan",,A-Formal (4),"#B2DFDB","#53B6AC",2,,,,2,1,12,0.001165,0,0
+7673,"Wheeler, Gregory R.",,C-Probability (9),"#AED681","#AED681",7,,,,6,2,15,0.083693,0.665785,1259
+7688,"Whiting, Daniel",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.614541,0.781553,4186
+7717,"Wilholt, Torsten",,H-Social (18),"#8D6E63","#A1887F",4,,,,4,2,19,0.048238,0.642375,476
+7718,"Wilkenfeld, Daniel A.",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,4,2,13,0.015028,0.625287,272
+7733,"Williams, John N.",,B-Knowledge (21),"#81C884","#81C884",4,,,,4,2,5,0.602711,0.818384,4051
+7734,"Williams, John Robert Gareth",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,17,0.01307,0.535948,82
+7740,"Williams, Neil Edward",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.127435,0.763561,1844
+7745,"Williamson, Jon",,C-Probability (9),"#AED681","#AED681",14,,,,11,3,15,0.088676,0.728671,1469
+7747,"Williamson, Timothy",,A-Truth (23),"#439788","#53B6AC",8,,,,7,3,12,0.043246,0.556561,738
+7752,"Wilson, Alastair",,C-Probability (9),"#AED681","#AED681",4,,,,4,2,15,0.066836,0.711416,673
+7760,"Wilson, Jessica",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.131717,0.732401,1571
+7762,"Wilson, Mark",,G-Quantum (14),"#EF8864","#EF8864",6,,,,2,1,26,0.052843,0.861111,31
+7765,"Wilson, Robert A.",,E-Evolution (5),"#FEFAC4","#FDF176",7,,,,6,2,25,0.191392,0.802817,1995
+7766,"Wimsatt, William C.",,E-Evolution (5),"#FEFAC4","#FDF176",12,,,,4,2,25,0.194255,0.758238,2048
+7771,"Winsberg, Eric",,C-Experiment (12),"#C5E2A5","#AED681",11,,,,9,3,13,0.007146,0.419048,44
+7776,"Winther, Rasmus Grønfeldt",,E-Evolution (5),"#FEFAC4","#FDF176",5,,,,5,2,25,0.165083,0.785299,1485
+7782,"Wise, M. Norton",,H-History (0),"#BCAAA4","#A1887F",2,,,,2,1,19,0.000385,0,0
+7795,"Wiśniewski, Andrzej",,A-Truth (23),"#439788","#53B6AC",6,,,,4,2,12,0.043042,0.614815,913
+7801,"Woleński, Jan",,A-Language (17),"#80CBC4","#53B6AC",3,,,,3,2,12,0.004582,0.424837,65
+7804,"Wolff, Johanna",,F-Property (2),"#F4B74C","#F4B74C",2,,,,2,1,4,0.12846,0.764385,1541
+7806,"Wolff, Michael",,A-Truth (23),"#439788","#53B6AC",3,,,,3,2,12,0.020507,0.773333,232
+7819,"Wong, Wai-Hung",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.600929,0.866624,4035
+7830,"Woodward, James F.",,F-Causation (19),"#FFDFAC","#F4B74C",33,,,,18,4,9,0.011075,0.517241,210
+7831,"Woody, Andrea I.",,F-Explanation (16),"#F7CD7F","#F4B74C",3,,,,3,2,13,0.010281,0.565217,143
+7835,"Worrall, John",,B-Arguments (22),"#97D8A3","#81C884",14,,,,8,3,22,0.002497,0.333333,7
+7840,"Wray, K. Brad",,B-Scientific-theory (1),"#66BC6A","#81C884",16,,,,16,4,19,0.034018,0.494253,215
+7841,"Wreen, Michael J.",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,17,0.02674,0.473485,250
+7842,"Wrenn, Chase B.",,B-Knowledge (21),"#81C884","#81C884",2,,,,2,1,5,0.504624,0.896835,2834
+7844,"Wright, Cory D.",,F-Explanation (16),"#F7CD7F","#F4B74C",4,,,,3,2,13,0.010979,0.463203,107
+7845,"Wright, Crispin",,B-Arguments (22),"#97D8A3","#81C884",7,,,,2,1,19,0.006448,0.833333,100
+7849,"Wright, Stephen",,B-Knowledge (21),"#81C884","#81C884",3,,,,3,2,5,0.601676,0.868342,4043
+7850,"Wright, Wayne",,E-Perception (10),"#F9D849","#FDF176",4,,,,4,2,13,0.003949,0.658333,79
+7854,"Wroński, Leszek",,A-Formal (4),"#B2DFDB","#53B6AC",5,,,,3,2,9,0.005326,0.626374,57
+7864,"Wüthrich, Adrian",,G-Quantum (14),"#EF8864","#EF8864",3,,,,2,2,26,0.839642,0.868864,3717
+7865,"Wüthrich, Christian",,G-Quantum (14),"#EF8864","#EF8864",7,,,,5,2,26,0.943207,0.811007,4686
+7883,"Yap, Audrey",,A-Mathematical (15),"#53B6AC","#53B6AC",7,,,,5,2,12,0.01565,0.579323,325
+7885,"Ye, Feng",,A-Mathematical (15),"#53B6AC","#53B6AC",2,,,,2,1,22,0.000712,1,1
+7905,"Yudell, Zanja",,F-Property (2),"#F4B74C","#F4B74C",4,,,,4,2,4,0.101167,0.793266,1178
+7909,"Zabell, Sandy L.",,C-Probability (9),"#AED681","#AED681",6,,,,3,2,15,0.076708,0.784512,1165
+7921,"Zalabardo, José L.",,B-Arguments (22),"#97D8A3","#81C884",3,,,,2,1,5,0.546889,0.764585,3342
+7925,"Zammito, John H.",,H-Philosophy (6),"#A1887F","#A1887F",3,,,,3,2,19,0.002988,0.527473,48
+7926,"Zamora Bonilla, Jesús P.",,H-Social (18),"#8D6E63","#A1887F",5,,,,5,2,19,0.047201,0.80303,424
+7931,"Zangwill, Nick",,D-Agent-decision (8),"#DCE875","#DCE875",4,,,,3,2,24,0.003355,0.642857,18
+7934,"Zardini, Elia",,B-Arguments (22),"#97D8A3","#81C884",2,,,,2,1,12,0.061571,0.423656,197
+7949,"Zenker, Frank",,G-Quantum (14),"#EF8864","#EF8864",8,,,,5,2,28,0,0,0
+7953,"Zhang, Jiji",,F-Causation (19),"#FFDFAC","#F4B74C",6,,,,4,2,9,0.008566,0.652174,180
+7974,"Zollman, Kevin James Spears",,D-Agent-decision (8),"#DCE875","#DCE875",10,,,,6,3,24,0.014745,0.724138,315
+7987,"Zwier, Karen R.",,G-Particles (3),"#F3AA91","#EF8864",4,,,,4,2,13,0.00307,0.794872,62
+7991,"Zynda, Lyle",,C-Probability (9),"#AED681","#AED681",3,,,,3,2,15,0.077509,0.682957,1090
+7994,"Ågotnes, Thomas",,A-Truth (23),"#439788","#53B6AC",5,,,,3,2,12,0.028275,0.765079,482
+7997,"Égré, Paul",,A-Sentence (7),"#4BA69A","#53B6AC",5,,,,3,2,29,0,0,0
+8000,"Øhrstrøm, Peter",,A-Truth (23),"#439788","#53B6AC",9,,,,2,1,12,0.016949,0.72381,152
+8002,"Čulina, Boris",,A-Truth (23),"#439788","#53B6AC",2,,,,2,1,12,0.028612,0.539024,442
+8003,"Şerban, Maria",,E-Neurosciences (13),"#DCE875","#FDF176",2,,,,2,1,13,0.019863,0.613636,324
+8004,"Šešelja, Dunja",,H-Social (18),"#8D6E63","#A1887F",4,,,,2,1,19,0.042853,0.725806,360
+8007,"Šustar, Predrag",,E-Evolution (5),"#FEFAC4","#FDF176",4,,,,3,2,25,0.224798,0.712382,2727
