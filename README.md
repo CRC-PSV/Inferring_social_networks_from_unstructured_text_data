@@ -13,6 +13,7 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 - sklearn
 - tmtoolkit
 - treetaggerwrapper
+- gensim
 
 ## Quick Start
 Install libraries: pip install -r requirements.txt
