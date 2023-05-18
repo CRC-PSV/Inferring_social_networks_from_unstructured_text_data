@@ -27,11 +27,11 @@ Execute to replicate research : Topic_modeling.py
 #### 2.2 Author topic profiles
 Execute to replicate research : Author_topic_profiles.py
 #### 2.3 Author correlation networks
-Done with Gephy
+Done with Gephi (Louvain community detection with default parameters, correlation threshold of 0.6, focus on main component)
 #### 2.4 HCol's distances
 Execute to replicate research : HCols_distances.py
 
-*Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
+*Note that for legal issues, the complete full-text of journal articles could not be included with the dataset; however, the dataset does include the references for all the documents, and the full-text can be retrieved by asking the respective publishers.
 
 ## Citation
 Malaterre, Christophe and Francis Lareau. 2023. Inferring social networks from unstructured text data: A proof of concept detection of “hidden communities of interest”. <em>Text and Data Analytics for Policy</em>.
