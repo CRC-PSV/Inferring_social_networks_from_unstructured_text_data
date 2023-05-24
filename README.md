@@ -27,7 +27,7 @@ Execute to replicate research : Topic_modeling.py
 #### 2.2 Author topic profiles
 Execute to replicate research : Author_topic_profiles.py
 #### 2.3 Author correlation networks
-Done with Gephi (Louvain community detection with default parameters, correlation threshold of 0.6, focus on main component)
+Done with Gephi
 #### 2.4 HCol's distances
 Execute to replicate research : HCols_distances.py
 
